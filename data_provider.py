@@ -26,20 +26,24 @@ def read_data():
     return num_of_sentences, sent_list, pronoun_list, candidate_list, answer_list
 
 
-def simplify_sent(num_of_sentences, sent_list):
+def get_json_sent(num_of_sentences, sent_list):
     raw_sent_file = open('stanford-corenlp-full-2015-12-09/input.txt', 'w')
     for item in sent_list:
         raw_sent_file.write("%s\n" % item)
 
     # get parsed and get json
+
     run_shell.stanfordnlp_shell()
     f = open('data/input.txt.json')
     data_json = json.load(f)
 
-    depend_list=[]
-    for i in range(0,num_of_sentences):
+    depend_list = []
+    full_tokens = []
+    print "num of sentences: ",num_of_sentences
+    for i in range(0, num_of_sentences):
         depend_list.append(data_json['sentences'][i]['basic-dependencies'])
+        full_tokens.append(data_json['sentences'][i]['tokens'])
 
-    return depend_list
+    return full_tokens, depend_list
 
 

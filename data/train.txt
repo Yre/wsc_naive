@@ -7,28 +7,3 @@ The knife sliced through the flesh because it was sharp.
 it
 The knife,the flesh
 The knife
-
-The bee landed on the flower because it had pollen.
-it
-The bee,the flower
-The bee
-
-James asked Robert for a favor, but he refused.
-he
-James,Robert
-Robert
-
-Ed punished Tim because he tried to escape.
-he
-Ed,Tim
-Tim
-
-Cats are smarter than dogs because they always land on their feet.
-they
-Cats,dogs
-Cats
-
-The ball hit the window and Bill caught it.
-it
-The ball,the window
-The ball
