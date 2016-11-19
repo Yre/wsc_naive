@@ -23,27 +23,54 @@ def read_data():
 
     num_of_sentences = len(sent_list)
 
+    f = open('data/input.txt','w+')
+    for sent in sent_list:
+        f.write(sent+'\n')
+
     return num_of_sentences, sent_list, pronoun_list, candidate_list, answer_list
 
 
 def get_json_sent(num_of_sentences, sent_list):
-    raw_sent_file = open('stanford-corenlp-full-2015-12-09/input.txt', 'w')
+    raw_sent_file = open('stanford-corenlp-full-2015-12-09/input.txt', 'w+')
     for item in sent_list:
         raw_sent_file.write("%s\n" % item)
 
     # get parsed and get json
 
-    run_shell.stanfordnlp_shell()
-    f = open('data/input.txt.json')
+    input_name = 'input.txt'
+    # run_shell.stanfordnlp_shell(input_name)
+    f = open('data/input.txt.json', 'r')
     data_json = json.load(f)
+    f.close()
 
     depend_list = []
     full_tokens = []
-    print "num of sentences: ",num_of_sentences
+    print "num of sentences: ", num_of_sentences
     for i in range(0, num_of_sentences):
         depend_list.append(data_json['sentences'][i]['basic-dependencies'])
         full_tokens.append(data_json['sentences'][i]['tokens'])
 
     return full_tokens, depend_list
 
+
+def get_json_broken_sent(num_of_sentences, sent_list):
+    raw_sent_file = open('stanford-corenlp-full-2015-12-09/broken_sent.txt', 'w+')
+    for item in sent_list:
+        raw_sent_file.write("%s\n" % item)
+
+    input_name = 'broken_sent.txt'
+    # run_shell.stanfordnlp_shell(input_name)
+    f = open('data/broken_sent.txt.json', 'r')
+
+    data_json = json.load(f)
+    f.close()
+
+    depend_list = []
+    full_tokens = []
+    print "num of sentences: ", num_of_sentences
+    for i in range(0, num_of_sentences):
+        depend_list.append(data_json['sentences'][i]['basic-dependencies'])
+        full_tokens.append(data_json['sentences'][i]['tokens'])
+
+    return full_tokens, depend_list
 

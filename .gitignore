@@ -3,3 +3,6 @@ stanford-corenlp-full-2015-12-09/
 .DS_Store
 .idea/
 *.pyc
+data/broken_sent.txt
+data/broken_sent.txt.json
+data/input.txt.json

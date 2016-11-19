@@ -1,5 +1,6 @@
 from sets import Set
 
+
 def simplify_candidates(candidate):
     sim_candidate = candidate
     for i in range(0, 2):
@@ -10,6 +11,7 @@ def simplify_candidates(candidate):
         elif candidate[i][0:3] == 'An ' or candidate[i][0:3] == 'an ':
             sim_candidate[i] = candidate[i][3:]
     return sim_candidate
+
 
 # candidates is a list of size 2, pronoun is the word, sent is a list of dict
 def break_by_conn(candidates, tokens):
@@ -33,14 +35,8 @@ def break_by_conn(candidates, tokens):
     return sent1, sent2, conn
 
 
-
-
-# tokens and dependency are also a list of dict
-# def basic_structure(tokens, dependency):
-#     # necessary_pos = Set(["NN","NNS", "NNP","NNPS", "VB", "VBD", """"VBP", "IN", "PRP"])
-#     for index in range(0,len(tokens)):
-#         if tokens[index]['pos'] in Set(["IN", "CC"]):
-#             break
-
-
-
+def query_type(words, dict_key, dict_value):
+    for i in range(0, len(words)-1):
+        if words[i][dict_key] == dict_value:
+            return True, i
+    return False, -1
