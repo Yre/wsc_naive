@@ -20,7 +20,7 @@ def simplify_candidates(candidate):
 
 
 # candidates is a list of size 2, pronoun is the word, sent is a list of dict
-def break_by_conn(origin_candidates, candidates, tokens, c1_name, c2_name):
+def break_by_conn(candidates, tokens):
     can_1 = False
     can_2 = False
     conn_found = False
@@ -36,9 +36,9 @@ def break_by_conn(origin_candidates, candidates, tokens, c1_name, c2_name):
             conn_found = True
             conn = tokens[i]
         else:
-            if (tokens[i]['word'] in candidates[0] and c1_name) or (tokens[i]['word'] == candidates[0]):
+            if tokens[i]['word'] in candidates[0]:
                 can_1 = True
-            if (tokens[i]['word'] in candidates[1] and c2_name) or (tokens[i]['word'] == candidates[1]):
+            if tokens[i]['word'] in candidates[1]:
                 can_2 = True
             sent1.append(tokens[i])
     if conn_found == False:
@@ -47,11 +47,13 @@ def break_by_conn(origin_candidates, candidates, tokens, c1_name, c2_name):
     return sent1, sent2, conn
 
 
-def query_type(words, dict_key, dict_value):
-    for i in range(0, len(words)-1):
-        if words[i][dict_key] == dict_value:
+# list of dict search:
+def query_type(word, dict_key, dict_value):
+    for i in range(0, len(word)-1):
+        if word[i][dict_key] == dict_value:
             return True, i
     return False, -1
+
 
 def check_candidate_name(candidate_list, tokens):
     c1_name = False
@@ -64,3 +66,4 @@ def check_candidate_name(candidate_list, tokens):
                 c2_name = True
 
     return c1_name, c2_name
+

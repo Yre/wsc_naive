@@ -11,14 +11,23 @@ import run_shell
 
 
 def google_search(word):
-    r = requests.get('http://www.google.com/search',
-                     params={'q':'"'+word+'"',
-                             "tbs": "li:1"}
+    r = requests.get('https://www.google.com/search?q=\"'+word+'\"'
+                     # params={'q':'"'+word+'"',
+                     #         "tbs": "li:1"}
                     )
     print r
-    soup = BeautifulSoup(r.text, "html.parser")
-    s = soup.find('div', {'id': 'resultStats'}).text
-    ans = re.findall(r'\d+', s)
+
+    if r.status_code != 200:
+        print('Google gg')
+
+    # soup = BeautifulSoup(r.text, "html.parser")
+    # s = soup.find('div', {'id': 'resultStats'}).text
+    data = r.text
+    print data
+    s = data.find("\"resultStats\"")
+    print s
+    ans = re.findall(r'\d+', data[s, s+100])
+    print "ans=", ans
     num = 0
     for i in range(0, len(ans)):
         num = num * 1000 + int(ans[i])
