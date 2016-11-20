@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import run_shell
 
 # import argparse
 
@@ -24,4 +25,9 @@ def google_search(word):
 
     print word, num
     return num
+
+def Google_scraper_search(word):
+    run_shell.run_Google_Scraper_shell(word)
+    #
+    # return num
 

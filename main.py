@@ -2,6 +2,7 @@ import data_provider
 import simplifier
 import search
 import evaluate
+import run_shell
 
 
 def list_to_string(list):
@@ -55,6 +56,7 @@ if __name__ == '__main__':
     feature = []
     num_of_feature = 1
     answer_list = []
+    # run_shell.install_Google_Scraper_shell()
 
     for i in range(0, num_of_sentences):
         print "\n\nSentence #", i

@@ -33,3 +33,23 @@ def stanfordnlp_shell(input_name):
     args = shlex.split(command_line)
     print(args)
     call(args)
+
+
+def install_Google_Scraper_shell():
+    command_line = 'virtualenv --python python3 env'
+    args = shlex.split(command_line)
+    print(args)
+    call(args)
+
+    command_line = 'source env/bin/activate'
+    args = shlex.split(command_line)
+    print(args)
+    call(args)
+    # pip install GoogleScraper ???
+
+
+def run_Google_Scraper_shell(word):
+    command_line = 'source env/bin/activate'
+    args = shlex.split(command_line)
+    print(args)
+    call(args)
