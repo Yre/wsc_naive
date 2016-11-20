@@ -1,4 +1,6 @@
-The bee landed on the flower because it had pollen.
-Right:The bee
-Your ans:bee
+Caroline quickly defeated Sue because she lost her confidence.
+Right:Sue  Your ans:Sue
+
+Firefox is used more than Internet Explorer because it is more stable.
+Right:Firefox  Your ans:Firefox
 

@@ -8,3 +8,7 @@ data/broken_sent.txt.json
 data/input.txt.json
 env/
 .scrapecache/
+tmp/
+data/broken_sent.txt
+data/broken_sent.txt.json
+data/eval_rights.txt

@@ -21,17 +21,17 @@ def evaluate(sent_list, answer_list, key_list):
         elif simp_key == answer_list[i]:
             right_answer += 1
             fr.write(sent_list[i] + '\n')
-            fr.write(simp_key+'\n')
+            fr.write(simp_key+'  ')
             fr.write(key_list[i]+'\n\n')
         else:
             wrong_list.append(i)
             fw.write(sent_list[i]+'\n')
-            fw.write('Right:' + key_list[i]+'\n')
+            fw.write('Right:' + key_list[i]+'  ')
             fw.write('Your ans:' + simp_key+'\n\n')
     fw.close()
     fr.close()
     fn.close()
-    print 'Accuracy: ', right_answer, ' + ', no_answer + ' / ', sent_number
+    print 'Accuracy: ', right_answer, ' + (', no_answer, ') / ', sent_number
 
 
 

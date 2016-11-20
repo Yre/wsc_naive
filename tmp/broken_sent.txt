@@ -10,11 +10,11 @@ trouble .
 When Debbie splashed Tina she got wet .
 .
 
-The bus driver yelled at a kid after she drove her vehicle .
-.
+The bus driver yelled at a kid .
+she drove her vehicle .
 
-The bus driver yelled at a kid after she broke a window .
-.
+The bus driver yelled at a kid .
+she broke a window .
 
 Jimbo was running from Bobbert .
 he smelled awful .
@@ -76,11 +76,11 @@ he did not adhere to the team 's formation .
 The coach criticized the player .
 he explicitly told everyone not to break the team 's formation .
 
-The academic clubs lost their members because they were poorly funded .
-.
+The academic clubs lost their members .
+they were poorly funded .
 
-The academic clubs lost their members because they did not have free time .
-.
+The academic clubs lost their members .
+they did not have free time .
 
 James asked Robert .
 a favor but he refused .
@@ -130,17 +130,17 @@ he wanted to .
 Aaron kissed Dan .
 he wanted him to .
 
-The students fell asleep during the professor 's lectures because they were boring .
-.
+The students fell asleep during the professor 's lectures .
+they were boring .
 
-The students fell asleep during the professor 's lectures because they were bored .
-.
+The students fell asleep during the professor 's lectures .
+they were bored .
 
-Derrick begged his boss for a raise but he did not get one .
-.
+Derrick begged his boss .
+a raise but he did not get one .
 
-Derrick begged his boss for a raise but he did not give one .
-.
+Derrick begged his boss .
+a raise but he did not give one .
 
 The jurors deliberated on the defendants ' fate .
 hours but they did not reach a verdict .
@@ -190,11 +190,11 @@ the officer arrested him .
 Bill was robbed by John .
 the officer helped him .
 
-He put snow on the smiley face because it was wet .
-.
+He put snow on the smiley face .
+it was wet .
 
-He put snow on the smiley face because it was dry .
-.
+He put snow on the smiley face .
+it was dry .
 
 The kitten played with the yarn .
 it was fun .
@@ -202,11 +202,11 @@ it was fun .
 The kitten played with the yarn .
 it was bored .
 
-I chopped down the tree with my axe because it was tall .
-.
+I chopped down the tree with my axe .
+it was tall .
 
-I chopped down the tree with my axe because it was sharp .
-.
+I chopped down the tree with my axe .
+it was sharp .
 
 Spiderman defeated Magnito .
 he is a good guy .
@@ -244,17 +244,17 @@ he was angry .
 Steve scratched Johnny .
 he became angry .
 
-The youth outran the old man because he was in shape .
-.
+The youth outran the old man .
+he was in shape .
 
-The youth outran the old man because he broke his hip .
-.
+The youth outran the old man .
+he broke his hip .
 
-Video games are outselling movies because they are fun to play .
-.
+Video games are outselling movies .
+they are fun to play .
 
-Video games are outselling movies because they are an old medium .
-.
+Video games are outselling movies .
+they are an old medium .
 
 Google bought Motorola .
 they want its customer base .
@@ -316,11 +316,11 @@ he borrowed money .
 Bill returned Jim twenty dollars .
 he lent money .
 
-The red team defeated the blue team because they made the last penalty kick .
-.
+The red team defeated the blue team .
+they made the last penalty kick .
 
-The red team defeated the blue team because they missed the last penalty kick .
-.
+The red team defeated the blue team .
+they missed the last penalty kick .
 
 Jack pushed John .
 the hill because he was in a wheelbarrow .
@@ -328,11 +328,11 @@ the hill because he was in a wheelbarrow .
 Jack pushed John .
 the hill because he is a good samaritan .
 
-The bespeckled old man slowly waved at the passing trolley passenger because he waves at everybody .
-.
+The bespeckled old man slowly waved at the passing trolley passenger .
+he waves at everybody .
 
-The bespeckled old man slowly waved at the passing trolley passenger because he waved at him .
-.
+The bespeckled old man slowly waved at the passing trolley passenger .
+he waved at him .
 
 The boy ran from the cop .
 he committed the crime .
@@ -346,11 +346,11 @@ it was pressurized .
 The cap fell off the bottle .
 it was untwisted .
 
-The boy tried to address his friend but he could not speak .
-.
+The boy tried to address his friend .
+he could not speak .
 
-The boy tried to address his friend but he could not hear .
-.
+The boy tried to address his friend .
+he could not hear .
 
 A biker sped past an officer .
 he turned on his siren .
@@ -358,11 +358,11 @@ he turned on his siren .
 A biker sped past an officer .
 he got away .
 
-The car hop brought the man his tray but he forgot his french fries .
-.
+The car hop brought the man his tray .
+he forgot his french fries .
 
-The car hop brought the man his tray but he was not in the car .
-.
+The car hop brought the man his tray .
+he was not in the car .
 
 The environmentalists were angry at the corporation .
 they had ignored their proposal .
@@ -394,11 +394,11 @@ When the preschoolers visited the senior citizens they were surprisingly well be
 When the preschoolers visited the senior citizens they were very hospitable .
 .
 
-The junior football team likes the Dallas Cowboys because they are an inspiration .
-.
+The junior football team likes the Dallas Cowboys .
+they are an inspiration .
 
-The junior football team likes the Dallas Cowboys because they get to watch quality football .
-.
+The junior football team likes the Dallas Cowboys .
+they get to watch quality football .
 
 Jimbo eats more than Bobbert .
 he is on a diet .
@@ -442,11 +442,11 @@ she regained her confidence .
 Caroline quickly defeated Sue .
 she lost her confidence .
 
-Firefox is used more than Internet Explorer because it is more stable .
-.
+Firefox is used more than Internet Explorer .
+it is more stable .
 
-Firefox is used more than Internet Explorer because it is less stable .
-.
+Firefox is used more than Internet Explorer .
+it is less stable .
 
 Students hate exams .
 they are lazy .
@@ -496,11 +496,11 @@ he was in trouble .
 Luigi rescued Mario .
 he was the only one who can .
 
-Planet Express was bought out by Mom 's Friendly Delivery Service so they can no longer be a threat .
-.
+Planet Express was bought out by Mom 's Friendly Delivery Service .
+they can no longer be a threat .
 
-Planet Express was bought out by Mom 's Friendly Delivery Service so they can eliminate the competition .
-.
+Planet Express was bought out by Mom 's Friendly Delivery Service .
+they can eliminate the competition .
 
 The squirrels buried the nuts .
 they would not lose them .
@@ -526,11 +526,11 @@ that she would stop crying .
 The nurse gave the girl a lollypop .
 she had too many .
 
-The police officer chased the thief because he was stealing from the bank .
-.
+The police officer chased the thief .
+he was stealing from the bank .
 
-The police officer chased the thief because he was protecting the bank .
-.
+The police officer chased the thief .
+he was protecting the bank .
 
 The mechanic charged the man one hundred dollars .
 he had done no work .
@@ -538,11 +538,11 @@ he had done no work .
 The mechanic charged the man one hundred dollars .
 he only had eighty dollars .
 
-The cat looked at the big dog and it was terrified .
-.
+The cat looked at the big dog .
+it was terrified .
 
-The cat looked at the big dog and it barked menacingly .
-.
+The cat looked at the big dog .
+it barked menacingly .
 
 Batman caught the thief .
 he plead innocence .
@@ -550,11 +550,11 @@ he plead innocence .
 Batman caught the thief .
 he recovered the stolen diamonds .
 
-The Emancipation Proclamation made slavery illegal but it was still practiced .
-.
+The Emancipation Proclamation made slavery illegal .
+it was still practiced .
 
-The Emancipation Proclamation made slavery illegal but it did not actually cause many slaves to be freed .
-.
+The Emancipation Proclamation made slavery illegal .
+it did not actually cause many slaves to be freed .
 
 It annoyed Chris when Sebastian jangled his keys .
 he was in a bad mood .
@@ -670,11 +670,11 @@ she had a lot of them .
 Stephanie gave Brandy flowers .
 she was sick .
 
-The team decided to cancel their relations with AT&T Corporate because they ran out of money .
-.
+The team decided to cancel their relations with AT&T Corporate .
+they ran out of money .
 
-The team decided to cancel their relations with AT&T Corporate because they are arrogant .
-.
+The team decided to cancel their relations with AT&T Corporate .
+they are arrogant .
 
 John chose Bill .
 he was choosing .
@@ -706,11 +706,11 @@ it rises from the ocean .
 Godzilla will stomp all over Tokyo .
 it does not build better defenses .
 
-The grandmother threw her granddaughter to her death because she felt jealous .
-.
+The grandmother threw her granddaughter to her death .
+she felt jealous .
 
-The grandmother threw her granddaughter to her death because she would not stop screaming .
-.
+The grandmother threw her granddaughter to her death .
+she would not stop screaming .
 
 Bob Marley shot the sheriff .
 he swears it was in self-defense .
@@ -742,11 +742,11 @@ it was shallow .
 The army crossed the river .
 it was retreating .
 
-The young up-and-comer destroyed the old veteran Star in the shootout so he got benched for the rest of the season .
-.
+The young up-and-comer destroyed the old veteran Star .
+the shootout so he got benched for the rest of the season .
 
-The young up-and-comer destroyed the old veteran Star in the shootout so he got placed on the starting line for the rest of the season .
-.
+The young up-and-comer destroyed the old veteran Star .
+the shootout so he got placed on the starting line for the rest of the season .
 
 Monkeys hate lions .
 they eat them .
@@ -772,17 +772,17 @@ it was airborne .
 The infection spread throughout the building .
 it was ventilated .
 
-The museum curator looked at the patron and said he should leave .
-.
+The museum curator looked at the patron .
+said he should leave .
 
-The museum curator looked at the patron and he saw him squirm .
-.
+The museum curator looked at the patron .
+he saw him squirm .
 
-Our professor told the TA that he needed his help .
-.
+Our professor told the TA .
+he needed his help .
 
-Our professor told the TA that he could have the day off .
-.
+Our professor told the TA .
+he could have the day off .
 
 Jack shouted at Bill .
 he crashed the car .
@@ -802,7 +802,7 @@ he told a funny joke .
 Allen laughed at Jimmy .
 he was making fun of him .
 
-The construction workers hollered at the girls when they walked by .
+The construction workers hollered at the girls when they walked .
 .
 
 The construction workers hollered at the girls when they saw them .
@@ -832,23 +832,23 @@ Jane because she needed directions .
 Jill was writing on a pad .
 Jane because she wanted to leave her address .
 
-The military prepared to go to battle with an Amish colony because they were amassing a dangerous number of goats without a permit .
-.
+The military prepared to go to battle with an Amish colony .
+they were amassing a dangerous number of goats without a permit .
 
-The military prepared to go to battle with an Amish colony because they felt threatened .
-.
+The military prepared to go to battle with an Amish colony .
+they felt threatened .
 
-The group grew tired of making these sentences because they are tedious .
-.
+The group grew tired of making these sentences .
+they are tedious .
 
-The group grew tired of making these sentences because they are lazy .
-.
+The group grew tired of making these sentences .
+they are lazy .
 
-The mysterious creature is drinking whiskey because it tastes good .
-.
+The mysterious creature is drinking whiskey .
+it tastes good .
 
-The mysterious creature is drinking whiskey because it still has more of these sentences to write .
-.
+The mysterious creature is drinking whiskey .
+it still has more of these sentences to write .
 
 Excalibur spent time with the stone .
 it needed a place to wait .
@@ -856,11 +856,11 @@ it needed a place to wait .
 Excalibur spent time with the stone .
 it was very smooth and sturdy .
 
-The band loves their fans because they come to every show .
-.
+The band loves their fans .
+they come to every show .
 
-The band loves their fans because they can not exist without support .
-.
+The band loves their fans .
+they can not exist without support .
 
 Jimbo ate the fish that Bobbert prepared .
 he was a good cook .
@@ -928,17 +928,17 @@ she was too rebellious .
 The manager fired the intern .
 she was upset .
 
-The government officials publicly apologized to the people because they were forced to .
-.
+The government officials publicly apologized to the people .
+they were forced to .
 
-The government officials publicly apologized to the people because they demanded an apology .
-.
+The government officials publicly apologized to the people .
+they demanded an apology .
 
-The police officer shot the protester because he lost composure .
-.
+The police officer shot the protester .
+he lost composure .
 
-The police officer shot the protester because he tried to attack the governor .
-.
+The police officer shot the protester .
+he tried to attack the governor .
 
 James always gives orders to Owen .
 he is very obedient .
@@ -946,11 +946,11 @@ he is very obedient .
 James always gives orders to Owen .
 he is very bossy .
 
-Chelsea hate Manchester United because they always come in second .
-.
+Chelsea hate Manchester United .
+they always come in second .
 
-Chelsea hate Manchester United because they are too cocky .
-.
+Chelsea hate Manchester United .
+they are too cocky .
 
 The professor highly recommends the student .
 he asks very good questions .
@@ -958,17 +958,17 @@ he asks very good questions .
 The professor highly recommends the student .
 he appreciates an inquisitive mind .
 
-The music player did not open the file because it was in the wrong format .
-.
+The music player did not open the file .
+it was in the wrong format .
 
-The music player did not open the file because it did not play that format .
-.
+The music player did not open the file .
+it did not play that format .
 
-The students protested against the new policies because they were too strict .
-.
+The students protested against the new policies .
+they were too strict .
 
-The students protested against the new policies because they were angry .
-.
+The students protested against the new policies .
+they were angry .
 
 Tim asked Jerry to run to the store .
 that he could relax .
@@ -1012,11 +1012,11 @@ it was incorrect .
 The computer rejected the password .
 it was malfunctioning .
 
-The kids asked their neighbors if they could have candy on Halloween .
-.
+The kids asked their neighbors .
+they could have candy on Halloween .
 
-The kids asked their neighbors if they had any candy on Halloween .
-.
+The kids asked their neighbors .
+they had any candy on Halloween .
 
 The glass told the toaster .
 it was fat .
@@ -1090,11 +1090,11 @@ they were superior .
 Sega lost to Nintendo .
 they were inferior .
 
-The space marines killed the aliens because they were a threat .
-.
+The space marines killed the aliens .
+they were a threat .
 
-The space marines killed the aliens because they were ordered to .
-.
+The space marines killed the aliens .
+they were ordered to .
 
 Rocky beat Drago .
 the crowd was supporting him .
@@ -1138,17 +1138,17 @@ he could n't .
 Joe tried to get Tom to wake up .
 he would n't .
 
-The other student corrected Robert because he better understood the problem .
-.
+The other student corrected Robert .
+he better understood the problem .
 
-The other student corrected Robert because he had misunderstood the problem .
-.
+The other student corrected Robert .
+he had misunderstood the problem .
 
-The train conductor admonished the man standing in the doorway because he was enforcing the rules .
-.
+The train conductor admonished the man standing .
+the doorway because he was enforcing the rules .
 
-The train conductor admonished the man standing in the doorway because he was not following the rules .
-.
+The train conductor admonished the man standing .
+the doorway because he was not following the rules .
 
 Emma did not pass the ball to Janie .
 she was open .
@@ -1162,11 +1162,11 @@ he knew everyone else did .
 Paul made fun of Henry .
 he was such an easy target .
 
-The boy gave his friend a cookie because he was hungry .
-.
+The boy gave his friend a cookie .
+he was hungry .
 
-The boy gave his friend a cookie because he had an extra .
-.
+The boy gave his friend a cookie .
+he had an extra .
 
 The government placed a tax on the product .
 it could profit from sales .
@@ -1180,11 +1180,11 @@ he was required to .
 The chef made breakfast for the captain .
 he required food .
 
-The band connected well to their fans so they continued to buy albums .
-.
+The band connected well to their fans .
+they continued to buy albums .
 
-The band connected well to their fans so they continued to write albums .
-.
+The band connected well to their fans .
+they continued to write albums .
 
 Bill was able to steal the banana from Ken .
 he was quick .
@@ -1216,17 +1216,17 @@ they had no other choice .
 Management gave the workers a raise .
 they had threatened to strike .
 
-The Roman legion attacked the Persians because they felt threatened .
-.
+The Roman legion attacked the Persians .
+they felt threatened .
 
-The Roman legion attacked the Persians because they had invaded .
-.
+The Roman legion attacked the Persians .
+they had invaded .
 
-The brown fox jumped over the dog because it was quick .
-.
+The brown fox jumped over the dog .
+it was quick .
 
-The brown fox jumped over the dog because it was lazy .
-.
+The brown fox jumped over the dog .
+it was lazy .
 
 Alice helped Gwen move .
 she was nice .
@@ -1414,11 +1414,11 @@ she was sad .
 Katy cried for Susan .
 she died .
 
-Taco needs hot sauce because it does not taste as good alone .
-.
+Taco needs hot sauce .
+it does not taste as good alone .
 
-Taco needs hot sauce because it improves the flavor .
-.
+Taco needs hot sauce .
+it improves the flavor .
 
 Tobias is upset with William .
 he would not pay .
@@ -1498,11 +1498,11 @@ he was nervous .
 George talked to Bill .
 he had experience .
 
-Tom asked his son to drive so that he could sleep .
-.
+Tom asked his son to drive so .
+he could sleep .
 
-Tom asked his son to drive so that he could get experience .
-.
+Tom asked his son to drive so .
+he could get experience .
 
 Rosie beat Mary .
 Scrabble because she had a good vocabulary .
@@ -1684,11 +1684,11 @@ Tuesday but they will not charge until next week .
 The couple took the car to the shop .
 Tuesday but they will not have to pay until next week .
 
-Chuck Norris can beat any man in a fight unless he is invincible .
-.
+Chuck Norris can beat any man .
+a fight unless he is invincible .
 
-Chuck Norris can beat any man in a fight unless he is tied up and blindfolded .
-.
+Chuck Norris can beat any man .
+a fight unless he is tied up and blindfolded .
 
 I think the referee treats Vick .
 a running back because he has distinct style of play .
@@ -1696,11 +1696,11 @@ a running back because he has distinct style of play .
 I think the referee treats Vick .
 a running back because he does not understand the game .
 
-The mouse sought out the wise owl 's advice and she promptly realized her mistake .
-.
+The mouse sought out the wise owl 's advice .
+she promptly realized her mistake .
 
-The mouse sought out the wise owl 's advice and she promptly accepted the free meal .
-.
+The mouse sought out the wise owl 's advice .
+she promptly accepted the free meal .
 
 The kidnapper will not return Trent Reznor .
 he is given a private performance .
@@ -1714,11 +1714,11 @@ they were trespassing .
 The authorities detained the hikers .
 they were prejudiced .
 
-Sarah tried to ignore the elephant in the room but she could not bear the awkwardness .
-.
+Sarah tried to ignore the elephant .
+the room but she could not bear the awkwardness .
 
-Sarah tried to ignore the elephant in the room but she would not stop trumpeting .
-.
+Sarah tried to ignore the elephant .
+the room but she would not stop trumpeting .
 
 Mark almost made a deal .
 Slimy Jack but backed down when the man was caught embezzling .
@@ -1798,11 +1798,11 @@ they could be paid .
 The lumberjacks cut the trees .
 they could be sold .
 
-The Centurion lent Doctor Who his ear since he had pledged his loyalty .
-.
+The Centurion lent Doctor Who his ear .
+he had pledged his loyalty .
 
-The Centurion lent Doctor Who his ear since he had saved the Centurion 's life .
-.
+The Centurion lent Doctor Who his ear .
+he had saved the Centurion 's life .
 
 Tom likes John .
 he has a cool name .
@@ -1816,17 +1816,17 @@ he was autotuned .
 The listener did not complain about the singer .
 he was tone deaf .
 
-The musicians performed at two venues because neither of them paid much .
-.
+The musicians performed at two venues .
+neither of them paid much .
 
-The musicians performed at two venues because neither of them got paid much .
-.
+The musicians performed at two venues .
+neither of them got paid much .
 
-The product fair showed Office 365 and it had a lot of attendees .
-.
+The product fair showed Office 365 .
+it had a lot of attendees .
 
-The product fair showed Office 365 and it showed off with a game .
-.
+The product fair showed Office 365 .
+it showed off with a game .
 
 Stephen King called Spielberg .
 that he could ask for some money .
@@ -1852,11 +1852,11 @@ it has a lot of viruses .
 Windows is worse than Linux .
 it is open source .
 
-The boy lent his friend a pencil because the teacher told him to share .
-.
+The boy lent his friend a pencil .
+the teacher told him to share .
 
-The boy lent his friend a pencil because the teacher told him to write .
-.
+The boy lent his friend a pencil .
+the teacher told him to write .
 
 God created Adam .
 good but he could not control his creation .
@@ -1864,11 +1864,11 @@ good but he could not control his creation .
 God created Adam .
 good but he could not control his temptation .
 
-The boy laughed at his friend because he heard the joke .
-.
+The boy laughed at his friend .
+he heard the joke .
 
-The boy laughed at his friend because he made the joke .
-.
+The boy laughed at his friend .
+he made the joke .
 
 The cops maced the protesters .
 they blindly follow orders .
@@ -1882,11 +1882,11 @@ it continued to roll .
 The boulder dropped into the river .
 it continued to flow .
 
-The gun owner fired at the burglar because he stole items .
-.
+The gun owner fired at the burglar .
+he stole items .
 
-The gun owner fired at the burglar because he saw a shadow .
-.
+The gun owner fired at the burglar .
+he saw a shadow .
 
 Jerrica saw the guard .
 she snuck past .
@@ -1894,17 +1894,17 @@ she snuck past .
 Jerrica saw the guard .
 she marched past .
 
-The home team lost to the Giants because they were better players .
-.
+The home team lost to the Giants .
+they were better players .
 
-The home team lost to the Giants because they were unable to pass .
-.
+The home team lost to the Giants .
+they were unable to pass .
 
-My parents gave the neighbors tickets to Six Flags since they needed them .
-.
+My parents gave the neighbors tickets to Six Flags .
+they needed them .
 
-My parents gave the neighbors tickets to Six Flags since they had extras .
-.
+My parents gave the neighbors tickets to Six Flags .
+they had extras .
 
 The police called headquarters .
 help and they refused .
@@ -1930,11 +1930,11 @@ they had no candy .
 The children egged the neighbors .
 they had no dignity .
 
-The model frowned at her manager because she forgot to call .
-.
+The model frowned at her manager .
+she forgot to call .
 
-The model frowned at her manager because she was sad .
-.
+The model frowned at her manager .
+she was sad .
 
 William enforced a mandatory choir practice .
 Ryan since he is struggling with his singing abilities .
@@ -1960,17 +1960,17 @@ his car is much faster .
 Jack raced past Dan .
 his car is old .
 
-The mother encouraged her daughter to sing a difficult song so she would be challenged .
-.
+The mother encouraged her daughter to sing a difficult song .
+she would be challenged .
 
-The mother encouraged her daughter to sing a difficult song so she could see her become better .
-.
+The mother encouraged her daughter to sing a difficult song .
+she could see her become better .
 
-John visited his son so he could spent time with him .
-.
+John visited his son .
+he could spent time with him .
 
-John visited his son so he would feel loved .
-.
+John visited his son .
+he would feel loved .
 
 The pilots saved the passengers .
 they had a civic duty .
@@ -1984,11 +1984,11 @@ he wanted to be the lead singer .
 Kurt sang to Jon .
 he was the judge .
 
-Stacy lied about partying to her mom but she found out .
-.
+Stacy lied about partying to her mom .
+she found out .
 
-Stacy lied about partying to her mom but she feared that she may be caught .
-.
+Stacy lied about partying to her mom .
+she feared that she may be caught .
 
 Janet Jackson is more popular .
 Latoya Jackson since she is the better performer .
@@ -2020,11 +2020,11 @@ they need more money .
 The poor steal from the rich .
 they possess more items of value .
 
-The big brother always beats the little brother at board games since he was older and wiser .
-.
+The big brother always beats the little brother .
+board games since he was older and wiser .
 
-The big brother always beats the little brother at board games since he is not very good at games .
-.
+The big brother always beats the little brother .
+board games since he is not very good at games .
 
 The salesman sold a hot tub to the customer .
 he was looking for something to use and soak in .
@@ -2035,14 +2035,14 @@ he was trying to sell his products .
 Jennifer Aniston does not like Angelina Jolie .
 she stole her boyfriend .
 
-Jennifer Aniston does not like Angelina Jolie because she is jealous of her relationship .
-.
+Jennifer Aniston does not like Angelina Jolie .
+she is jealous of her relationship .
 
-The US army fought the Taliban because they are trying to prevent terrorism .
-.
+The US army fought the Taliban .
+they are trying to prevent terrorism .
 
-The US army fought the Taliban because they are the root of much terrorism .
-.
+The US army fought the Taliban .
+they are the root of much terrorism .
 
 Terranova has better ratings than House .
 they have attracted more new audiences .
@@ -2056,11 +2056,11 @@ Dave Chappelle since he does not have time to become a good singer due to his co
 Neil Patrick Harris is a better singer .
 Dave Chappelle since he had experience from Broadway .
 
-The Philadelphia Eagles lost to the St. Louis Rams but it was because they had the home field advantage .
-.
+The Philadelphia Eagles lost to the St. Louis Rams .
+it was because they had the home field advantage .
 
-The Philadelphia Eagles lost to the St. Louis Rams but it was because they were tired from traveling to the game .
-.
+The Philadelphia Eagles lost to the St. Louis Rams .
+it was because they were tired from traveling to the game .
 
 The AirForce is more appealing than the Army .
 they require higher qualifications .
@@ -2074,17 +2074,17 @@ they enjoy the company of people .
 Dogs are friendlier than cats .
 they would rather be alone .
 
-Hybrid cars produce less pollution than diesel trucks because they use less gas and more electricity .
-.
+Hybrid cars produce less pollution than diesel trucks .
+they use less gas and more electricity .
 
-Hybrid cars produce less pollution than diesel trucks because they use pure gasoline .
-.
+Hybrid cars produce less pollution than diesel trucks .
+they use pure gasoline .
 
-Fry 's Electronics is more successful than Comp USA since they price their products much lower .
-.
+Fry 's Electronics is more successful than Comp USA .
+they price their products much lower .
 
-Fry 's Electronics is more successful than Comp USA since they can not compete competitively in price .
-.
+Fry 's Electronics is more successful than Comp USA .
+they can not compete competitively in price .
 
 Ryan has much less hair than Gary so he does not go out .
 public without a hat .
@@ -2092,11 +2092,11 @@ public without a hat .
 Ryan has much less hair than Gary so he has to cut his hair constantly .
 .
 
-Blue Thunder scored more goals than Green Hogs since they are the better team .
-.
+Blue Thunder scored more goals than Green Hogs .
+they are the better team .
 
-Blue Thunder scored more goals than Green Hogs since they are not very good at the game .
-.
+Blue Thunder scored more goals than Green Hogs .
+they are not very good at the game .
 
 Joe earned more money than Rob .
 the Price is Right because he was able to guess more letters correctly .
@@ -2116,11 +2116,11 @@ the percentage of users because they have a faster and more reliable browser .
 Google is catching up to Firefox .
 the percentage of users because they have been getting too bulky and slow .
 
-The new knives are better than the old knives since they are much sharper .
-.
+The new knives are better .
+the old knives since they are much sharper .
 
-The new knives are better than the old knives since they are losing their sharp edge due to constant use .
-.
+The new knives are better .
+the old knives since they are losing their sharp edge due to constant use .
 
 The Union defeated the Confederates .
 the Civil war since they had better resources and numbers .
@@ -2128,11 +2128,11 @@ the Civil war since they had better resources and numbers .
 The Union defeated the Confederates .
 the Civil war since they did not have the resources to continue the fight .
 
-Will Smith got his son in a movie since he has much influence in the movie scene .
-.
+Will Smith got his son .
+a movie since he has much influence in the movie scene .
 
-Will Smith got his son in a movie since he is the son of a famous movie actor .
-.
+Will Smith got his son .
+a movie since he is the son of a famous movie actor .
 
 Horses are faster at short distances than camels .
 they can not trek as far .
@@ -2152,23 +2152,23 @@ she lied to her .
 Nicole was angry at Sammie .
 she caught her in a lie .
 
-Pizza hut pizzas are tastier than Papa John pizzas because they give more ingredients and cheeses .
-.
+Pizza hut pizzas are tastier than Papa John pizzas .
+they give more ingredients and cheeses .
 
-Pizza hut pizzas are tastier than Papa John pizzas because they give less ingredients and cheeses .
-.
+Pizza hut pizzas are tastier than Papa John pizzas .
+they give less ingredients and cheeses .
 
-The Axis forces lost the war to the Allied forces because they fought on too many fronts .
-.
+The Axis forces lost the war to the Allied forces .
+they fought on too many fronts .
 
-The Axis forces lost the war to the Allied forces because they took advantage of their weakness .
-.
+The Axis forces lost the war to the Allied forces .
+they took advantage of their weakness .
 
-Frosted Flakes is tastier than Fiber One because they use frosting on the cereal .
-.
+Frosted Flakes is tastier than Fiber One .
+they use frosting on the cereal .
 
-Frosted Flakes is tastier than Fiber One because they taste bland due to the fiber .
-.
+Frosted Flakes is tastier than Fiber One .
+they taste bland due to the fiber .
 
 Gladiators are viewed better than Slaves .
 they fight to the death in the arena .
@@ -2182,11 +2182,11 @@ they felt their intellectual properties were being infringed upon .
 Apple sued Samsung .
 they made a product that has similarities with their own .
 
-Battlefield 3 is garnering more attention than Modern Warfare because they have graphics that are on a whole new level .
-.
+Battlefield 3 is garnering more attention than Modern Warfare .
+they have graphics that are on a whole new level .
 
-Battlefield 3 is garnering more attention than Modern Warfare because they contain outdated graphics .
-.
+Battlefield 3 is garnering more attention than Modern Warfare .
+they contain outdated graphics .
 
 King Leonidas was more respected .
 King Henry because he treated the people as equal citizens .
@@ -2194,11 +2194,11 @@ King Henry because he treated the people as equal citizens .
 King Leonidas was more respected then King Henry .
 he unfairly taxed the people .
 
-Gas powered fireplaces are environmentally friendly as compared to traditional fireplaces since they do not need wood to burn .
-.
+Gas powered fireplaces are environmentally friendly .
+compared to traditional fireplaces since they do not need wood to burn .
 
-Gas powered fireplaces are environmentally friendly as compared to traditional fireplaces since they require wood to function .
-.
+Gas powered fireplaces are environmentally friendly .
+compared to traditional fireplaces since they require wood to function .
 
 Kate Middleton is viewed as a newer generation Princess Diana .
 she was a symbol of fashion as the previous queen .
@@ -2206,11 +2206,11 @@ she was a symbol of fashion as the previous queen .
 Kate Middleton is viewed as a newer generation Princess Diana .
 she is also being compared as a fashion symbol .
 
-The older male cat is bullying the new younger male cat so that he can assert his dominance .
-.
+The older male cat is bullying the new younger male cat .
+that he can assert his dominance .
 
-The older male cat is bullying the new younger male cat so he has been submissive .
-.
+The older male cat is bullying the new younger male cat .
+he has been submissive .
 
 The Batman does not kill Joker .
 he is good at heart .
@@ -2218,11 +2218,11 @@ he is good at heart .
 The Batman does not kill Joker .
 he is always thrown in jail instead .
 
-The DEA raided the Mexican Cartel 's warehouse because they suspected a drug business was occurring .
-.
+The DEA raided the Mexican Cartel 's warehouse .
+they suspected a drug business was occurring .
 
-The DEA raided the Mexican Cartel 's warehouse because they had their drug business discovered .
-.
+The DEA raided the Mexican Cartel 's warehouse .
+they had their drug business discovered .
 
 Rob was granted a gun license while Jon was not .
 he had passed the background check .
@@ -2242,11 +2242,11 @@ they have little cost associated with selling more .
 Software gives more profit over hardware .
 they are costs with producing the materials each time .
 
-Naruto has about 200 more episodes than Code Geass because they have a long interesting storyline .
-.
+Naruto has about 200 more episodes than Code Geass .
+they have a long interesting storyline .
 
-Naruto has about 200 more episodes then Code Geass because they finished the story in much fewer episodes .
-.
+Naruto has about 200 more episodes then Code Geass .
+they finished the story in much fewer episodes .
 
 The Simpsons have lasted 23 seasons while The Sarah Connor Chronicles lasted two seasons .
 they have been wildly successful .
@@ -2272,11 +2272,11 @@ he needs glasses to see .
 Doctor Chen prescribed glasses to Egore .
 he conducted the eye exam .
 
-Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network since they provide a plan that appeals to more people .
-.
+Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network .
+they provide a plan that appeals to more people .
 
-Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network since they are charging too much for their plan .
-.
+Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network .
+they are charging too much for their plan .
 
 Doctor Conrad Murray is accused of negligence in Michael Jackson 's death .
 he was the doctor on site when the drug overdose took place .
@@ -2296,17 +2296,17 @@ the main character of Two and a Half Men but he does not play the same character
 Ashton Kutcher replaced Charlie Sheen .
 the main character of Two and a Half Men but he did not leave the show willingly .
 
-Thor was banished from the kingdom by his father because he was too eager to become the new king .
-.
+Thor was banished from the kingdom .
+his father because he was too eager to become the new king .
 
-Thor was banished from the kingdom by his father because he felt his son was too eager to become king .
-.
+Thor was banished from the kingdom .
+his father because he felt his son was too eager to become king .
 
-Nvidia is giving away two top of the line laptops to its users so they will be giving them away for free .
-.
+Nvidia is giving away two top of the line laptops to its users .
+they will be giving them away for free .
 
-Nvidia is giving away two top of the line laptops to its users so they have a chance to get them for free .
-.
+Nvidia is giving away two top of the line laptops to its users .
+they have a chance to get them for free .
 
 The game distribution platform `` Origin '' will have exclusive EA games that competitor `` Steam '' will not have .
 they are trying to entice users to their platform .
@@ -2314,23 +2314,23 @@ they are trying to entice users to their platform .
 The game distribution platform `` Origin '' will have exclusive EA games that competitor `` Steam '' will not have .
 they could not obtain rights to those titles .
 
-Gamestop pulled Square Enix 's game `` Dues Ex '' from the shelves because they offered a coupon for a game service in their game .
-.
+Gamestop pulled Square Enix 's game `` Dues Ex '' .
+the shelves because they offered a coupon for a game service in their game .
 
-Gamestop pulled Square Enix 's game `` Dues Ex '' from the shelves because they would not sell a game that promoted another game service .
-.
+Gamestop pulled Square Enix 's game `` Dues Ex '' .
+the shelves because they would not sell a game that promoted another game service .
 
-The police arrested 700 protesters in New York since they tried to block traffic on the Manhattan bridge .
-.
+The police arrested 700 protesters .
+New York since they tried to block traffic on the Manhattan bridge .
 
-The police arrested 700 protesters in New York since they had to prevent them from blocking the Manhatten bridge .
-.
+The police arrested 700 protesters .
+New York since they had to prevent them from blocking the Manhatten bridge .
 
-DC Universe went free to play while World of Warcraft is subscription based because they would not maintain enough users to continue a monthly payment plan .
-.
+DC Universe went free to play while World .
+Warcraft is subscription based because they would not maintain enough users to continue a monthly payment plan .
 
-DC Universe went free to play while World of Warcraft is subscription based because they have maintained enough users to continue with their current payment model .
-.
+DC Universe went free to play while World .
+Warcraft is subscription based because they have maintained enough users to continue with their current payment model .
 
 Amazon 's Kindle Fire may surpass Apple 's IPad .
 they offer a very competitive low price .
@@ -2338,17 +2338,17 @@ they offer a very competitive low price .
 Amazon 's Kindle Fire may surpass Apple 's Ipad .
 they are quite expensive for providing a similar product .
 
-Wall Street was bailed out by the government because they wanted to prevent an economic collapse .
-.
+Wall Street was bailed out by the government .
+they wanted to prevent an economic collapse .
 
-Wall Street was bailed out by the government because they were on the verge of collapsing .
-.
+Wall Street was bailed out by the government .
+they were on the verge of collapsing .
 
-Stargate Atlantis was replaced by Stargate Universe since they were not doing very well in the ratings .
-.
+Stargate Atlantis was replaced .
+Stargate Universe since they were not doing very well in the ratings .
 
-Stargate Atlantis was replaced by Stargate Universe since they were hoping that this show would do better in the ratings .
-.
+Stargate Atlantis was replaced .
+Stargate Universe since they were hoping that this show would do better in the ratings .
 
 Conan O'Brien replaced Jay Leno .
 host of Late Night however he was soon removed from that timeslot due to him coming back .
@@ -2362,11 +2362,11 @@ he was a popular kung fu actor in the past .
 Jackie Chan learned some things from watching Bruce Lee .
 he could watch his acting from the past .
 
-The boy scouts were able to raise more money for charity over the girl scouts since they had a very active fund raising schedule .
-.
+The boy scouts were able to raise more money .
+charity over the girl scouts since they had a very active fund raising schedule .
 
-The boy scouts were able to raise more money for charity over the girl scouts since they were not able to raise funds as actively .
-.
+The boy scouts were able to raise more money .
+charity over the girl scouts since they were not able to raise funds as actively .
 
 The police arrested the criminals .
 they break the law .
@@ -2398,35 +2398,35 @@ he is better at running the ball .
 Adrian Peterson has more touchdowns than Reggie Bush .
 he can not run the ball as well .
 
-AMD 's Bulldozer chips have received lukewarm reception compared to Intel 's Sandy Bridge chips since they were subpar in performance .
-.
+AMD 's Bulldozer chips have received lukewarm reception compared to Intel 's Sandy Bridge chips .
+they were subpar in performance .
 
-AMD 's Bulldozer chips have received lukewarm reception compared to Intel 's Sandy Bridge chips since they were much faster in processing speed .
-.
+AMD 's Bulldozer chips have received lukewarm reception compared to Intel 's Sandy Bridge chips .
+they were much faster in processing speed .
 
-Hybrid cars are much more fuel efficient than gasoline powered cars but they have not caught on in popularity yet .
-.
+Hybrid cars are much more fuel efficient .
+gasoline powered cars but they have not caught on in popularity yet .
 
-Hybrid cars are much more fuel efficient than gasoline powered cars but they are still the most used cars today .
-.
+Hybrid cars are much more fuel efficient .
+gasoline powered cars but they are still the most used cars today .
 
-Apple customer support is constantly voted better than Microsoft support because they provide a much better plan for a subscription price .
-.
+Apple customer support is constantly voted better .
+Microsoft support because they provide a much better plan for a subscription price .
 
-Apple customer support is constantly voted better than Microsoft support because they do not really offer a competitive support plan .
-.
+Apple customer support is constantly voted better .
+Microsoft support because they do not really offer a competitive support plan .
 
-New York is very crowded compared to South Dakota but they are also much smaller in square miles .
-.
+New York is very crowded compared to South Dakota .
+they are also much smaller in square miles .
 
-New York is very crowded compared to South Dakota but they have much more land instead .
-.
+New York is very crowded compared to South Dakota .
+they have much more land instead .
 
-Four wheel drive cars are used for rally racing instead of rear wheel cars because they are better for off-road racing .
-.
+Four wheel drive cars are used .
+rally racing instead of rear wheel cars because they are better for off-road racing .
 
-Four wheel drive cars are used for rally racing instead of rear wheel cars because they do not race well off road .
-.
+Four wheel drive cars are used .
+rally racing instead of rear wheel cars because they do not race well off road .
 
 The carpenters came before the painters .
 they need to build the furniture first .
@@ -2434,11 +2434,11 @@ they need to build the furniture first .
 The carpenters came before the painters .
 they need to paint after the furniture has already been built .
 
-Blizzard Entertainment does not sell their games on Steam because they prefer to keep their own profits .
-.
+Blizzard Entertainment does not sell their games on Steam .
+they prefer to keep their own profits .
 
-Blizzard Entertainment does not sell their games on Steam because they require part of the profits for each sale .
-.
+Blizzard Entertainment does not sell their games on Steam .
+they require part of the profits for each sale .
 
 Alex Rodriguez is paid much higher than Brandon Hughs .
 he is grossly overpaid .
@@ -2446,23 +2446,23 @@ he is grossly overpaid .
 Alex Rodriguez is paid much higher than Brandon Hughs .
 he is a less sought after player .
 
-The X-Factor is starting to overtake American Idol in the ratings race since they have the popular Simon Cowell as the judge .
-.
+The X-Factor is starting to overtake American Idol .
+the ratings race since they have the popular Simon Cowell as the judge .
 
-The X-Factor is starting to overtake American Idol in the ratings race since they have boring judges .
-.
+The X-Factor is starting to overtake American Idol .
+the ratings race since they have boring judges .
 
-McDonalds has many more restaurants than Chick Filet worldwide because they are a globally known .
-.
+McDonalds has many more restaurants than Chick Filet worldwide .
+they are a globally known .
 
-McDonalds has many more restaurants than Chick Filet worldwide because they are not able to expand their business outside the United States .
-.
+McDonalds has many more restaurants than Chick Filet worldwide .
+they are not able to expand their business outside the United States .
 
-The United States sanctioned Iran since they recently discovered their assassination plot on an ambassador in the States .
-.
+The United States sanctioned Iran .
+they recently discovered their assassination plot on an ambassador in the States .
 
-The United States sanctions Iran since they recently were caught in plotting an assassination .
-.
+The United States sanctions Iran .
+they recently were caught in plotting an assassination .
 
 Justin Bieber sold many more albums than Jack Johnson .
 he is also very unpopular among older adults .
@@ -2476,11 +2476,11 @@ they are the most watched sport in the US .
 The NFL generates obscene amounts of revenue compared to the MLB .
 they are not as popular to watch .
 
-Parents send their children to bed because they want them to have enough sleep for school in the morning .
-.
+Parents send their children to bed .
+they want them to have enough sleep for school in the morning .
 
-Parents send their children to bed and they have to listen to authority since they are dependents .
-.
+Parents send their children to bed .
+they have to listen to authority since they are dependents .
 
 Amazon recently upstaged Gamestop .
 Battlefield 3 pre-orders because they lowered their price 30 percent below the competitor .
@@ -2488,29 +2488,29 @@ Battlefield 3 pre-orders because they lowered their price 30 percent below the c
 Amazon recently upstaged Gamestop .
 Battlefield 3 pre-orders because they are not able to match their competitor 's aggressive pricing .
 
-The Xbox 360 outsold the Nintendo Wii by 300 percent because they are appealing to more people with their better hardware .
-.
+The Xbox 360 outsold the Nintendo Wii .
+300 percent because they are appealing to more people with their better hardware .
 
-The Xbox 360 outsold the Nintendo Wii by 300 percent because they are losing their popularity .
-.
+The Xbox 360 outsold the Nintendo Wii .
+300 percent because they are losing their popularity .
 
-Nancy adopted a baby girl because she always wanted a daughter .
-.
+Nancy adopted a baby girl .
+she always wanted a daughter .
 
-Nancy adopted a baby girl because she was picked to be adopted .
-.
+Nancy adopted a baby girl .
+she was picked to be adopted .
 
-The Japanese eat a lot more seafood than the Americans .
-they are an island surrounded by the ocean .
+The Japanese eat a lot more seafood .
+the Americans because they are an island surrounded by the ocean .
 
-The Japanese eat a lot more seafood than the Americans .
-they have a lot of people who do not live near the ocean .
+The Japanese eat a lot more seafood .
+the Americans because they have a lot of people who do not live near the ocean .
 
-The Backstreet Boys were much more popular than N-Sync since they had the better music .
-.
+The Backstreet Boys were much more popular than N-Sync .
+they had the better music .
 
-The Backstreet Boys were much more popular than N-Sync since they were not very good overall .
-.
+The Backstreet Boys were much more popular than N-Sync .
+they were not very good overall .
 
 MySpace lost millions of users to Facebook .
 they still have a small following .
@@ -2518,11 +2518,11 @@ they still have a small following .
 MySpace lost millions of users to Facebook .
 they were not able to crush them completely .
 
-Monster trucks would crush cars since they are so massive .
-.
+Monster trucks would crush cars .
+they are so massive .
 
-Monster trucks would crush cars since they are so much smaller in size .
-.
+Monster trucks would crush cars .
+they are so much smaller in size .
 
 The police arrested suspected members of Anonymous .
 they are accused of hacking company data .
@@ -2530,17 +2530,17 @@ they are accused of hacking company data .
 The police arrested suspected members of Anonymous .
 they are cracking down on hackers .
 
-Bank of America had to charge their members checking fees unlike Chase since they are feeling the pains of poor economic times .
-.
+Bank of America had to charge their members checking fees unlike Chase .
+they are feeling the pains of poor economic times .
 
-Bank of America had to charge their members checking fees unlike Chase since they are not struggling in the current economy .
-.
+Bank of America had to charge their members checking fees unlike Chase .
+they are not struggling in the current economy .
 
-Space Marines are played more often than Orks so they are always the most played at tournaments .
-.
+Space Marines are played more often than Orks .
+they are always the most played at tournaments .
 
-Space Marines are played more often than Orks but they are noticed more often at tournaments due to their uniqueness .
-.
+Space Marines are played more often than Orks .
+they are noticed more often at tournaments due to their uniqueness .
 
 Males always outnumber females .
 Comic Con since they are generally more interested in games and comics .
@@ -2554,11 +2554,11 @@ she would not emotionally support her in her time of need .
 Snooki got angry at Kendra .
 she is upset that her friend would not comfort her .
 
-The airline unions constantly go on strike against the airlines because they want better salaries .
-.
+The airline unions constantly go .
+strike against the airlines because they want better salaries .
 
-The airline unions constantly go on strike against the airlines because they do not care for the employees .
-.
+The airline unions constantly go .
+strike against the airlines because they do not care for the employees .
 
 Sprint is now selling the IPhone just like Verizon .
 they want to also attract customers who are fans of the IPhone .
@@ -2578,17 +2578,17 @@ they are trying to protect their trademark name .
 Intel sued IntelSpec .
 they happen to have a trademarked brand in their company name .
 
-The bartenders threw ice at the Jersey Shore cast because they did not not like them in their club .
-.
+The bartenders threw ice at the Jersey Shore cast .
+they did not not like them in their club .
 
-The bartenders threw ice at the Jersey Shore cast because they were not wanted in the club .
-.
+The bartenders threw ice at the Jersey Shore cast .
+they were not wanted in the club .
 
-The government wanted to issue weapons to the US border patrol so they asked the Congress to approve the budget on weapons .
-.
+The government wanted to issue weapons to the US border patrol .
+they asked the Congress to approve the budget on weapons .
 
-The government wanted to issue weapons to the US border patrol since they need them to patrol effectively .
-.
+The government wanted to issue weapons to the US border patrol .
+they need them to patrol effectively .
 
 Doctor Jenner continued his work on a vaccine for John .
 he is not have much success .
@@ -2602,17 +2602,17 @@ the criminals because he upholds the peace .
 Officer Kennedy saved Roger .
 the criminals but he was not grateful for being saved .
 
-The Board of Directors fired the management from the company since they did not think they were doing a good job .
-.
+The Board of Directors fired the management .
+the company since they did not think they were doing a good job .
 
-The Board of Directors fired the management from the company since they were not managing the company well .
-.
+The Board of Directors fired the management .
+the company since they were not managing the company well .
 
-The employees of Six Flags denied the customers access to the ride since they deemed the ride unsafe .
-.
+The employees of Six Flags denied the customers access to the ride .
+they deemed the ride unsafe .
 
-The employees of Six Flags denied the customers access to the ride but they can still go on other rides .
-.
+The employees of Six Flags denied the customers access to the ride .
+they can still go on other rides .
 
 Field Reporter Chris Johnson interviewed Corporal Mason .
 he needs to get the story for the media .
@@ -2620,11 +2620,11 @@ he needs to get the story for the media .
 Field Reporter Chris Johnson interviewed Corporal Mason .
 he can provide information from fighting on the front line .
 
-The Cowboys formed a trailer defense against the Indians .
-they have a better chance of surviving .
+The Cowboys formed a trailer defense .
+the Indians since they have a better chance of surviving .
 
-The Cowboys formed a trailer defense against the Indians .
-they are about to attack .
+The Cowboys formed a trailer defense .
+the Indians since they are about to attack .
 
 Raccoons constantly play dead when people come .
 since they hope they will be ignored .
@@ -2632,11 +2632,11 @@ since they hope they will be ignored .
 Raccoons constantly play dead when people come near .
 they frighten them .
 
-The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios since they did not violate any laws .
-.
+The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios .
+they did not violate any laws .
 
-The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios but they will probably file another lawsuit again .
-.
+The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios .
+they will probably file another lawsuit again .
 
 Batman is always teaching Robin new techniques .
 tips since he is his mentor .
@@ -2644,17 +2644,17 @@ tips since he is his mentor .
 Batman is always teaching Robin new techniques .
 tips so he will one day be equal in skill .
 
-Penguins tend to stay on land to avoid killer whales because they can not go on land .
-.
+Penguins tend to stay on land to avoid killer whales .
+they can not go on land .
 
-Penguins tend to stay on land to avoid killer whales but they do need to go in the water for food at times .
-.
+Penguins tend to stay on land to avoid killer whales .
+they do need to go in the water for food at times .
 
-The forensic team managed to link the criminals to the crime since they analyzed the blood samples at the crime scene .
-.
+The forensic team managed to link the criminals to the crime .
+they analyzed the blood samples at the crime scene .
 
-The forensic team managed to link the criminals to the crime so they are now going to go to prison .
-.
+The forensic team managed to link the criminals to the crime .
+they are now going to go to prison .
 
 Clark Kent hides his identity from Lex Luthor .
 he wishes to keep his loved ones safe .
@@ -2668,11 +2668,11 @@ the benches of the park since they need to enforce the law of no sleeping in the
 Police sweep bums .
 the benches of the park although they do not have a place to stay and sleep at night .
 
-The Swiss bank freezed the accounts of a crime syndicate because they were helping law enforcement catch the criminals .
-.
+The Swiss bank freezed the accounts of a crime syndicate .
+they were helping law enforcement catch the criminals .
 
-The Swiss bank freezed the accounts of a crime syndicate because they had fraudulent money deposited in their account .
-.
+The Swiss bank freezed the accounts of a crime syndicate .
+they had fraudulent money deposited in their account .
 
 Steve Urkel was always annoying Carl Winslow .
 the show `` Family Matters '' but he still liked him regardless .
@@ -2680,11 +2680,11 @@ the show `` Family Matters '' but he still liked him regardless .
 Steve Urkel was always annoying Carl Winslow .
 the show `` Family Matters '' because he is quite annoying by nature .
 
-Blackberry alienated a lot of users because they blacked out their service due to technical difficulties .
-.
+Blackberry alienated a lot .
+users because they blacked out their service due to technical difficulties .
 
-Blackberry alienated a lot of users because they were angered by the service being taken down for days .
-.
+Blackberry alienated a lot .
+users because they were angered by the service being taken down for days .
 
 Groupon lied about their earnings to the stakeholders .
 they wanted to keep the value of the company high .
@@ -2692,11 +2692,11 @@ they wanted to keep the value of the company high .
 Groupon lied about their earnings to the stakeholders .
 they found out about the deception .
 
-NATO forces did precision predator strikes for the Libyan rebels since they had the predator vehicles .
-.
+NATO forces did precision predator strikes for the Libyan rebels .
+they had the predator vehicles .
 
-NATO forces did precision predator strikes for the Libyan rebels because they did not have the capabilities themselves .
-.
+NATO forces did precision predator strikes for the Libyan rebels .
+they did not have the capabilities themselves .
 
 Jim Carrey convinced Jeff to travel .
 him to Aspen since he wanted to have a travel buddy to visit his girlfriend .
@@ -2710,17 +2710,17 @@ he still received a large sum of money for being a runner up .
 Shawn Jun performed a huge upset over four time champion Leon Sung .
 he has more desire to win .
 
-Channel 6 news team gave a play by play coverage of the escaped convicts because they needed to report the news .
-.
+Channel 6 news team gave a play .
+play coverage of the escaped convicts because they needed to report the news .
 
-Channel 6 news team gave a play by play coverage of the escaped convicts so they had their escape reported to the world .
-.
+Channel 6 news team gave a play .
+play coverage of the escaped convicts so they had their escape reported to the world .
 
-The preservation society managed to rescue a rare species of birds since they have the funding and resources to dedicate to saving animals .
-.
+The preservation society managed to rescue a rare species .
+birds since they have the funding and resources to dedicate to saving animals .
 
-The preservation society managed to rescue a rare species of birds so they will have the chance to survive .
-.
+The preservation society managed to rescue a rare species .
+birds so they will have the chance to survive .
 
 Scrooge was moved by the appearance of Timmy .
 he felt bad for the crippled nice boy .
@@ -2740,11 +2740,11 @@ they were starting to lose business due to their strict policies .
 Blockbuster increased the time allotted for customers to return videos .
 they would not be able to rent videos out quicker now .
 
-The ski instructors taught the children the basics of skiing since they are trying to learn .
-.
+The ski instructors taught the children the basics .
+skiing since they are trying to learn .
 
-The ski instructors taught the children the basics of skiing because they have much experience to share and teach .
-.
+The ski instructors taught the children the basics .
+skiing because they have much experience to share and teach .
 
 Lucy gave a tutorial on how to install IOS 5 to Cindy .
 she is not very technologically savvy .
@@ -2752,11 +2752,11 @@ she is not very technologically savvy .
 Lucy gave a tutorial on how to install IOS 5 to Cindy .
 she is familiar with software upgrades .
 
-Samsonite makes luggage which is highly rated by Luggage Ratings Inc. since they make a quality and good looking product .
-.
+Samsonite makes luggage which is highly rated by Luggage Ratings Inc. .
+they make a quality and good looking product .
 
-Samsonite makes luggage which is highly rated by Luggage Ratings Inc. because they thought the product they rated was highly desirable due to its quality .
-.
+Samsonite makes luggage which is highly rated by Luggage Ratings Inc. .
+they thought the product they rated was highly desirable due to its quality .
 
 The FBI usually take over the crime scene from the police .
 they are more qualified in handling these situations .
@@ -2764,11 +2764,11 @@ they are more qualified in handling these situations .
 The FBI usually take over the crime scene from the police .
 they sometimes need help to investigate the crime .
 
-The NSA sent their agents in the field to retrieve intelligence but they were not able to gather the intelligence for them .
-.
+The NSA sent their agents .
+the field to retrieve intelligence but they were not able to gather the intelligence for them .
 
-The NSA sent their agents in the field to retrieve intelligence because they need people in the field to do the field work .
-.
+The NSA sent their agents .
+the field to retrieve intelligence because they need people in the field to do the field work .
 
 The Mavericks are able to sell much merchandise to fans this season .
 they are idolized due to their last NBA championship win .
@@ -2776,41 +2776,41 @@ they are idolized due to their last NBA championship win .
 The Mavericks are able to sell much merchandise to fans this season .
 they just want it since they are the hottest team at the moment .
 
-Rammstein performed their latest hit single to the masses of Germany since they wanted to perform for this native country first .
-.
+Rammstein performed their latest hit single to the masses .
+Germany since they wanted to perform for this native country first .
 
-Rammstein performed their latest hit single to the masses of Germany because they wanted to hear their newest masterpieces .
-.
+Rammstein performed their latest hit single to the masses .
+Germany because they wanted to hear their newest masterpieces .
 
-Western Digital may disappoint their shareholders this season since they have slowed down production in their Thailand factories due to flooding .
-.
+Western Digital may disappoint their shareholders this season .
+they have slowed down production in their Thailand factories due to flooding .
 
-Western Digital may disappoint their shareholders this season but they will probably tough out the momentary losses and remain shareholders .
-.
+Western Digital may disappoint their shareholders this season .
+they will probably tough out the momentary losses and remain shareholders .
 
-Black Eyed Peas hosted a huge event for the partners of Intel since they have lots of money to hire them to perform .
-.
+Black Eyed Peas hosted a huge event .
+the partners of Intel since they have lots of money to hire them to perform .
 
-Black Eyed Peas hosted a huge event for the partners of Intel while they also perform for many other events .
-.
+Black Eyed Peas hosted a huge event .
+the partners of Intel while they also perform for many other events .
 
-The graduate students spend every waking moment studying for their classes since they offer much knowledge and tests as part of their itinerary .
-.
+The graduate students spend every waking moment studying for their classes .
+they offer much knowledge and tests as part of their itinerary .
 
-The graduate students spend every waking moment studying for their classes but they still need to devote time to friends and family as well .
-.
+The graduate students spend every waking moment studying for their classes .
+they still need to devote time to friends and family as well .
 
-Santa Claus and his elves distributed millions of presents worldwide to the children of the world because they wish to reward those who behaved .
-.
+Santa Claus and his elves distributed millions of presents worldwide to the children .
+the world because they wish to reward those who behaved .
 
-Santa Claus and his elves distributed millions of presents worldwide to the children of the world but they do not all believe in them being able to give presents worldwide in a night .
-.
+Santa Claus and his elves distributed millions of presents worldwide to the children .
+the world but they do not all believe in them being able to give presents worldwide in a night .
 
-The construction company could not rezone the area due to endangered butterflies because they are in danger of being wiped out if their environment is ruined .
-.
+The construction company could not rezone the area due to endangered butterflies .
+they are in danger of being wiped out if their environment is ruined .
 
-The construction company could not rezone the area due to endangered butterflies since they could not violate state law and endanger a species .
-.
+The construction company could not rezone the area due to endangered butterflies .
+they could not violate state law and endanger a species .
 
 Harrison looked into illegal accusations against his partner Bryan .
 he needed to know if these allegations would hurt his business .
@@ -2836,23 +2836,23 @@ he has thus far been a huge hit .
 Will Smith and his new movie is highly anticipated by movie critic John Billic .
 he felt his role was well played in the previous movies .
 
-The Texas Rangers lost the World Series to the Cardinals because they were outplayed in two of the most important games in the series .
-.
+The Texas Rangers lost the World Series to the Cardinals .
+they were outplayed in two of the most important games in the series .
 
-The Texas Rangers lost the world series to the Cardinals since they had a stronger desire to win the series .
-.
+The Texas Rangers lost the world series to the Cardinals .
+they had a stronger desire to win the series .
 
-Uncharted 3 did not introduce any new ideas since their last game Uncharted 2 so it ended up getting lukewarm reviews by game critics .
-.
+Uncharted 3 did not introduce any new ideas .
+their last game Uncharted 2 so it ended up getting lukewarm reviews by game critics .
 
-Uncharted 3 did not introduce any new ideas since their last game Uncharted 2 but it is still going to be a fun game .
-.
+Uncharted 3 did not introduce any new ideas .
+their last game Uncharted 2 but it is still going to be a fun game .
 
-The Stars did not have many viewers watching the game last Friday since they were all watching the World Series instead .
-.
+The Stars did not have many viewers watching the game last Friday .
+they were all watching the World Series instead .
 
-The Stars did not have many viewers watching the game last Friday because they were playing at the same time as the World Series .
-.
+The Stars did not have many viewers watching the game last Friday .
+they were playing at the same time as the World Series .
 
 Herman Cain has been rising in the polls causing concern for Rick Perry .
 he has been appealing to a wider audience .
@@ -2866,35 +2866,35 @@ they have not complied with all of them .
 The government has made about 30 percent of the requests for censoring classified materials to Google .
 they did not want this information to be widely available to the public .
 
-The United Federation of Worlds attempts to bring civilization and rule to the population of millions of planets since they need a centralized government to maintain order .
-.
+The United Federation of Worlds attempts to bring civilization .
+rule to the population of millions of planets since they need a centralized government to maintain order .
 
-The United Federation of Worlds attempts to bring civilization and rule to the population of millions of planets because they want to unite the planets under the same rules .
-.
+The United Federation of Worlds attempts to bring civilization .
+rule to the population of millions of planets because they want to unite the planets under the same rules .
 
-The peace emissaries arrived to negotiate a peace treaty for the warring population since they wish to assist in ending the war .
-.
+The peace emissaries arrived to negotiate a peace treaty .
+the warring population since they wish to assist in ending the war .
 
-The peace emissaries arrived to negotiate a peace treaty for the warring population but they will be difficult to find common ground for .
-.
+The peace emissaries arrived to negotiate a peace treaty .
+the warring population but they will be difficult to find common ground for .
 
-Technician Stepanic crafted advanced opticals for Leforge since he needed to be able to see well for his duties .
-.
+Technician Stepanic crafted advanced opticals for Leforge .
+he needed to be able to see well for his duties .
 
-Technician Stepanic crafted advanced opticals for Leforge but he would still prefer to see without such devices .
-.
+Technician Stepanic crafted advanced opticals for Leforge .
+he would still prefer to see without such devices .
 
-LA Galaxy is constantly seeking famous players to fill their ranks because they are trying to obtain high profile players to incite popularity into the team .
-.
+LA Galaxy is constantly seeking famous players to fill their ranks .
+they are trying to obtain high profile players to incite popularity into the team .
 
-LA Galaxy is constantly seeking famous players to fill their ranks but they are constantly sought after by many teams with offers .
-.
+LA Galaxy is constantly seeking famous players to fill their ranks .
+they are constantly sought after by many teams with offers .
 
-Youtube has paid out over a million dollars to their channel partners because they are responsible for bringing millions of viewers to watch their videos .
-.
+Youtube has paid out over a million dollars to their channel partners .
+they are responsible for bringing millions of viewers to watch their videos .
 
-Youtube has paid out over a million dollars to their channel partners since they want to reward those who bring more users to their website .
-.
+Youtube has paid out over a million dollars to their channel partners .
+they want to reward those who bring more users to their website .
 
 Peter managed to win the lottery and loaned money to Rick .
 he has enough money to freely loan to his friends .
@@ -2902,11 +2902,11 @@ he has enough money to freely loan to his friends .
 Peter managed to win the lottery and loaned money to Rick .
 he will pay him back .
 
-The shipping company harvests lobster for their business because they receive a high demand for this type of seafood .
-.
+The shipping company harvests lobster .
+their business because they receive a high demand for this type of seafood .
 
-The shipping company harvests lobster for their business since they are considered an exquisite meal .
-.
+The shipping company harvests lobster .
+their business since they are considered an exquisite meal .
 
 Peter Griffin often pokes fun at Chris so he always ends up being angry .
 .
@@ -2914,11 +2914,11 @@ Peter Griffin often pokes fun at Chris so he always ends up being angry .
 Peter Griffin often pokes fun at Chris .
 he enjoys doing it .
 
-Apple indicated that the Siri program would not be available for previous IPhones because they do not have the capabilities to run such a program .
-.
+Apple indicated that the Siri program would not be available for previous IPhones .
+they do not have the capabilities to run such a program .
 
-Apple indicated that the Siri program would not be available for previous IPhones but they were proven wrong when hackers were successful .
-.
+Apple indicated that the Siri program would not be available for previous IPhones .
+they were proven wrong when hackers were successful .
 
 Commissioner Gordon has to constantly call upon Batman .
 he is not able to stop the criminals himself .
@@ -2932,35 +2932,35 @@ getting divorced because she also could not come to terms with her husband .
 Kim Kardashian has already followed in the steps of Demi Moore .
 getting divorced but she would not want people to experience her same sadness .
 
-Saturday Night Live often has politicians as one of their main centers of attention since they are what viewers want to see joked about .
-.
+Saturday Night Live often has politicians .
+one of their main centers of attention since they are what viewers want to see joked about .
 
-Saturday Night Live often has politicians as one of their main centers of attention because they want to keep viewers entertained .
-.
+Saturday Night Live often has politicians .
+one of their main centers of attention because they want to keep viewers entertained .
 
-Modern Warfare has big expectations to live up to due to the successful release of Battlefield 3 since they need to pull fans to their game instead .
-.
+Modern Warfare has big expectations to live up to due to the successful release of Battlefield 3 .
+they need to pull fans to their game instead .
 
-Modern Warfare has big expectations to live up to due to the successful release of Battlefield 3 since they already have a solid grasp on many players that would consider purchasing a new similar game .
-.
+Modern Warfare has big expectations to live up to due to the successful release of Battlefield 3 .
+they already have a solid grasp on many players that would consider purchasing a new similar game .
 
-The Crusaders fought many unholy enemies because they viewed their crusade as their divine right .
-.
+The Crusaders fought many unholy enemies .
+they viewed their crusade as their divine right .
 
-The Crusaders fought many unholy enemies since they were considered unholy by the priests .
-.
+The Crusaders fought many unholy enemies .
+they were considered unholy by the priests .
 
-Some citizens of the kingdom were put in chains by the royal guard since they have been accused of breaking the law .
-.
+Some citizens of the kingdom were put in chains by the royal guard .
+they have been accused of breaking the law .
 
-Some citizens of the kingdom were put in chains by the royal guard because they have a duty to uphold the King 's rule .
-.
+Some citizens of the kingdom were put in chains by the royal guard .
+they have a duty to uphold the King 's rule .
 
-Knight Commander Roddick was plagued by a vision of his dead son so he became crazy from being reminded constantly .
-.
+Knight Commander Roddick was plagued by a vision .
+his dead son so he became crazy from being reminded constantly .
 
-Knight Commander Roddick was plagued by a vision of his dead son because he was killed due to a lack of protection from his father .
-.
+Knight Commander Roddick was plagued by a vision .
+his dead son because he was killed due to a lack of protection from his father .
 
 The wolves attacked the travelers .
 the forest since they were not welcomed near their home .
@@ -2968,11 +2968,11 @@ the forest since they were not welcomed near their home .
 The wolves attacked the travelers .
 the forest but they managed to escape unscathed .
 
-Buy More Book Store sends brand new books to customers but they sometimes end up sending used books instead .
-.
+Buy More Book Store sends brand new books to customers .
+they sometimes end up sending used books instead .
 
-Buy More Book Store sends brand new books to customers because they like quality in the books they read .
-.
+Buy More Book Store sends brand new books to customers .
+they like quality in the books they read .
 
 Master Wong had to come to the defense of his pupil Lun-Xiu .
 he managed to anger numerous thugs .
@@ -2986,11 +2986,11 @@ the way he depicted the character gave chills to the audience .
 Heath Ledger was considered the greatest Joker of all time by Ebert .
 he can not make that decision for all critics .
 
-Merchant Smith purchased the trophy from Knight Louis but he did not pay very well for it .
-.
+Merchant Smith purchased the trophy from Knight Louis .
+he did not pay very well for it .
 
-Merchant Smith purchased the trophy from Knight Louis because he desperately needed the money .
-.
+Merchant Smith purchased the trophy from Knight Louis .
+he desperately needed the money .
 
 Entertainmart has to win over the consumers .
 their low prices or they will most likely go out of business .
@@ -3004,11 +3004,11 @@ the Medieval period since they had the ability to read and write .
 Scribes were often hired by nobles .
 the Medieval period although they were able to read and write themselves .
 
-Walmart has leaked pages of their Black Friday Ad to the users of the internet because they are trying to increase hype for them to come to their store .
-.
+Walmart has leaked pages of their Black Friday Ad to the users .
+the internet because they are trying to increase hype for them to come to their store .
 
-Walmart has leaked pages of their Black Friday Ad to the users of the internet but they will have many other ads to look at to choose from .
-.
+Walmart has leaked pages of their Black Friday Ad to the users .
+the internet but they will have many other ads to look at to choose from .
 
 Microsoft discontinued plans for the Courier tablet due to the success of the tablets from Apple .
 they feel the product would not be successful .
@@ -3022,11 +3022,11 @@ they are easier to hire than trying to perform a task oneself .
 Consultants are hired by companies to perform specialized tasks .
 they do not always have money in the budget to hire these services .
 
-The father convinced his son that it is possible for him to one day become a knight but he may never achieve such status coming from a peasant family .
-.
+The father convinced his son .
+it is possible for him to one day become a knight but he may never achieve such status coming from a peasant family .
 
-The father convinced his son that it is possible for him to one day become a knight because he did not want to crush his dreams .
-.
+The father convinced his son .
+it is possible for him to one day become a knight because he did not want to crush his dreams .
 
 Dance Instructor Kate offers advice to Shelly .
 she wants her to become a professional dancer one day .
@@ -3040,35 +3040,35 @@ he needed armor that could withstand the power of a lance .
 Sir Rodrick was made specialized fitted armor by Jack .
 he charged top coin for such a piece .
 
-Subways has always been considered a healthy choice by athletes .
-they offer such healthy ingredients in their sandwiches .
+Subways has always been considered a healthy choice .
+athletes since they offer such healthy ingredients in their sandwiches .
 
-Subways has always been considered a healthy choice by athletes .
-they often visit this restaurant as regulars .
+Subways has always been considered a healthy choice .
+athletes so they often visit this restaurant as regulars .
 
-Chevrolet had to recently recall their cars because they received complaints about the brakes in their product .
-.
+Chevrolet had to recently recall their cars .
+they received complaints about the brakes in their product .
 
-Chevrolet had to recently recall their cars so they could receive a repair in their brakes .
-.
+Chevrolet had to recently recall their cars .
+they could receive a repair in their brakes .
 
-Positive SSL sells wildcard certificates to Web hosting companies because they require encrypted sites for interaction with customers .
-.
+Positive SSL sells wildcard certificates to Web hosting companies .
+they require encrypted sites for interaction with customers .
 
-Positive SSL sells wildcard certificates to Web hosting companies but they have multiple options to purchase certificates from .
-.
+Positive SSL sells wildcard certificates to Web hosting companies .
+they have multiple options to purchase certificates from .
 
-New Orleans is renown for their unique style of crawfish because they are flavored and cooked to be delicious .
-.
+New Orleans is renown .
+their unique style of crawfish because they are flavored and cooked to be delicious .
 
-New Orleans is renown for their unique style of crawfish so they have many restaurants which sell it .
-.
+New Orleans is renown .
+their unique style of crawfish so they have many restaurants which sell it .
 
-Microsoft Azure provides cloud servers for consumers because they are providing the infrastructure for a future in cloud computing .
-.
+Microsoft Azure provides cloud servers for consumers .
+they are providing the infrastructure for a future in cloud computing .
 
-Microsoft Azure provides cloud servers for consumers but they are still hesitant to switch to cloud computing .
-.
+Microsoft Azure provides cloud servers for consumers .
+they are still hesitant to switch to cloud computing .
 
 Herald Simmons has tremendous skill in rousing up the audience for Knight Keller .
 he has such excellent speaking qualities .
@@ -3076,29 +3076,29 @@ he has such excellent speaking qualities .
 Herald Simmons has tremendous skill in rousing up the audience for Knight Keller so he recruited him solely to get the audience riled up .
 him .
 
-DVD Players are slowly being replaced by Blu Ray Systems since they are becoming the new medium of entertainment .
-.
+DVD Players are slowly being replaced by Blu Ray Systems .
+they are becoming the new medium of entertainment .
 
-DVD Players are slowly being replaced by Blu Ray Systems but they will still exist for years to come .
-.
+DVD Players are slowly being replaced by Blu Ray Systems .
+they will still exist for years to come .
 
-Soldiers of the armed forces were slowly being phased out by genetically engineered soldiers since they were physically inferior to their new counterparts .
-.
+Soldiers of the armed forces were slowly being phased out by genetically engineered soldiers .
+they were physically inferior to their new counterparts .
 
-Soldiers of the armed forces were slowly being phased out by genetically engineered soldiers because they were created solely for the purpose of excelled warfare .
-.
+Soldiers of the armed forces were slowly being phased out by genetically engineered soldiers .
+they were created solely for the purpose of excelled warfare .
 
-Todd was offered a recruitment letter from the Dean of Admissions himself because he had an athletic ability that was highly regarded by the university .
-.
+Todd was offered a recruitment letter .
+the Dean of Admissions himself because he had an athletic ability that was highly regarded by the university .
 
-Todd was offered a recruitment letter from the Dean of Admissions himself since he wanted to recruit such talent into their athletics department .
-.
+Todd was offered a recruitment letter .
+the Dean of Admissions himself since he wanted to recruit such talent into their athletics department .
 
-The officers chose a planet to send the new soldiers so they could receive experience in hostile environments .
-.
+The officers chose a planet to send the new soldiers .
+they could receive experience in hostile environments .
 
-The officers chose a planet to send the new soldiers because they wanted them to be trained in hostile environments .
-.
+The officers chose a planet to send the new soldiers .
+they wanted them to be trained in hostile environments .
 
 The dumpsters arrived each day to retrieve the garbage of the population .
 they produced a lot of garbage every day .
@@ -3112,11 +3112,11 @@ TV because he was not paying attention to his task at hand .
 Mike cut his finger while watching Chef Michaels .
 TV but he can sometimes be a distraction from fellow cooks watching him on TV .
 
-The security patrol searched the land for survivors but they were not interested in saving them .
-.
+The security patrol searched the land for survivors .
+they were not interested in saving them .
 
-The security patrol searched the land for survivors because they might still be alive .
-.
+The security patrol searched the land for survivors .
+they might still be alive .
 
 The civilians had to flee the encampment from the thugs .
 they feared for their lives .
@@ -3124,11 +3124,11 @@ they feared for their lives .
 The civilians had to flee the encampment from the thugs .
 they were terrorizing and attacking everyone they saw .
 
-The heavy weapons team bombarded the settlement with their mortars since they needed to soften up the enemy before moving in .
-.
+The heavy weapons team bombarded the settlement .
+their mortars since they needed to soften up the enemy before moving in .
 
-The heavy weapons team bombarded the settlement with their mortars even though they were unarmed .
-.
+The heavy weapons team bombarded the settlement .
+their mortars even though they were unarmed .
 
 The starships transported the colonists to their new planet .
 they will be creating a new settlement .
@@ -3139,8 +3139,8 @@ they still need to transport several more waves of people .
 Kathy looked after the children of Mrs. Faith .
 she wanted to have a night out at town .
 
-Kathy looked after the children of Mrs. Faith because she is quite capable as a baby sitter .
-.
+Kathy looked after the children of Mrs. Faith .
+she is quite capable as a baby sitter .
 
 Cartman finally decided to get rid of his stuffed animal Clyde Frog .
 he was told by his friends to grow up .
@@ -3148,11 +3148,11 @@ he was told by his friends to grow up .
 Cartman finally decided to get rid of his stuffed animal Clyde Frog so he was donated to charity .
 .
 
-Martial Arts actors are often accused as being frauds by the public since they think they can only fight in fake scenarios .
-.
+Martial Arts actors are often accused as being frauds by the public .
+they think they can only fight in fake scenarios .
 
-Martial Arts actors are often accused as being frauds by the public since they can only fight in fake scenarios .
-.
+Martial Arts actors are often accused as being frauds by the public .
+they can only fight in fake scenarios .
 
 Liu Kang threw the bags of Johnny Cage .
 the water because he was annoyed that he thought he was a baggage boy .
@@ -3178,29 +3178,29 @@ stretching himself out too thin since he could not win without fighting smart .
 Johnny Cage had to trick Scorpion .
 stretching himself out too thin since he had abilities which gave him the advantage .
 
-Liu Kang used the element of water against Sub Zero since he was able to turn it into ice as a weapon .
-.
+Liu Kang used the element of water against Sub Zero .
+he was able to turn it into ice as a weapon .
 
-Liu Kang used the element of water against Sub Zero because he is weak against such elements .
-.
+Liu Kang used the element of water against Sub Zero .
+he is weak against such elements .
 
-American Airlines offers upgrades for their preferred passengers since they want them to continue flying with them .
-.
+American Airlines offers upgrades for their preferred passengers .
+they want them to continue flying with them .
 
-American Airlines offers upgrades for their preferred passengers so they continue choosing their airlines over others .
-.
+American Airlines offers upgrades for their preferred passengers .
+they continue choosing their airlines over others .
 
-Chase Sapphire has a 24 hour service line for card holders since they chose the card for everyday available support when traveling .
-.
+Chase Sapphire has a 24 hour service line .
+card holders since they chose the card for everyday available support when traveling .
 
-Chase Sapphire has a 24 hour service line for card holders so they would be available to help if their customer encounters trouble .
-.
+Chase Sapphire has a 24 hour service line .
+card holders so they would be available to help if their customer encounters trouble .
 
-Chase Freedom provides quarterly bonuses as incentives for accounts since they want them to use their card .
-.
+Chase Freedom provides quarterly bonuses as incentives for accounts .
+they want them to use their card .
 
-Chase Freedom provides quarterly bonuses as incentives for accounts but they do not always consider the incentive as much value .
-.
+Chase Freedom provides quarterly bonuses as incentives for accounts .
+they do not always consider the incentive as much value .
 
 AOL finally had their CEO step down to respect the wishes of the stakeholders .
 they have votes to decide the direction of the company .
@@ -3208,11 +3208,11 @@ they have votes to decide the direction of the company .
 AOL finally had their CEO step down to respect the wishes of the stakeholders .
 they needed to listen to their investors .
 
-The collections agency often goes after delinquent accounts but they sometimes make mistakes .
-.
+The collections agency often goes after delinquent accounts .
+they sometimes make mistakes .
 
-The collections agency often goes after delinquent accounts since they try and get the money owed if a person did not pay for several months .
-.
+The collections agency often goes after delinquent accounts .
+they try and get the money owed if a person did not pay for several months .
 
 Yamato Hisaki returned as the Grand Champion to face new challenger Yoshi Osaka .
 he risks losing his champion title .
@@ -3232,29 +3232,29 @@ she ended up loving her new style .
 Jessica did not like Selma cutting her hair short .
 she tried to be conservative in the length she cut it .
 
-Customer Support fields the questions of their customers so they could provide immediate assistance .
-.
+Customer Support fields the questions .
+their customers so they could provide immediate assistance .
 
-Customer Support fields the questions of their customers so they could receive immediate assistance .
-.
+Customer Support fields the questions .
+their customers so they could receive immediate assistance .
 
-Kyle purchased three new monitors due to a recommendation by his brother because he wanted to increase his productivity .
-.
+Kyle purchased three new monitors due to a recommendation by his brother .
+he wanted to increase his productivity .
 
-Kyle purchased three new monitors due to a recommendation by his brother because he provided information on how his productivity increased with more working space .
-.
+Kyle purchased three new monitors due to a recommendation by his brother .
+he provided information on how his productivity increased with more working space .
 
-Coach Jay provided instruction to his son on how to eat healthy because he wants him to grow up being fit and strong .
-.
+Coach Jay provided instruction to his son .
+how to eat healthy because he wants him to grow up being fit and strong .
 
-Coach Jay provided instruction to his son on how to eat healthy so that he can live longer .
-.
+Coach Jay provided instruction to his son .
+how to eat healthy so that he can live longer .
 
-The Starbuck employees make all the drinks on the spot for morning customers so they get their drinks nice and hot .
-.
+The Starbuck employees make all the drinks on the spot for morning customers .
+they get their drinks nice and hot .
 
-The Starbuck employees make all the drinks on the spot for morning customers because they want them to return to purchase more of their products .
-.
+The Starbuck employees make all the drinks on the spot for morning customers .
+they want them to return to purchase more of their products .
 
 Kenmore is known for making superb appliances which is sold at Sears .
 they are the best place to sell top brand appliances .
@@ -3280,11 +3280,11 @@ he would be able to see in the dark caves .
 Beowulf was granted a magical artifact by King Henry that emitted a light .
 he wanted him to be able to find effectively in the dark .
 
-Bethesda launched a new title Skyrim to raving reviews by gamers .
-they produced an excellent story to immense the player .
+Bethesda launched a new title Skyrim to raving reviews .
+gamers because they produced an excellent story to immense the player .
 
-Bethesda launched a new title Skyrim to raving reviews by gamers .
-they will now most likely buy their next title as well .
+Bethesda launched a new title Skyrim to raving reviews .
+gamers so they will now most likely buy their next title as well .
 
 Beowulf was granted the crown to succeed King Henry .
 he was the best man for the job due to a lack of a rightful heir .
@@ -3298,11 +3298,11 @@ they are a vicious and unforgiving people .
 The invaders showed no mercy to the defenders .
 they would not surrender anyway .
 
-Verizon Fios provides hundreds of channels to millions of viewers because they want them to have a plethora of options to choose from .
-.
+Verizon Fios provides hundreds of channels to millions .
+viewers because they want them to have a plethora of options to choose from .
 
-Verizon Fios provides hundreds of channels to millions of viewers but they sometimes want even more than what is available .
-.
+Verizon Fios provides hundreds of channels to millions .
+viewers but they sometimes want even more than what is available .
 
 Walmart is promoting their Black Friday sale heavily in commercials .
 they are the best medium to get information out to the average consumer .
@@ -3310,17 +3310,17 @@ they are the best medium to get information out to the average consumer .
 Walmart is promoting their Black Friday sale heavily in commercials .
 they want to start off the Christmas season successfully in sales .
 
-Marriott rewards frequent travelers with points for free stays so they can influence their decision on where they would like to stay .
-.
+Marriott rewards frequent travelers .
+points for free stays so they can influence their decision on where they would like to stay .
 
-Marriott rewards frequent travelers with points for free stays but they are also enticed by other reward programs from other hotels .
-.
+Marriott rewards frequent travelers .
+points for free stays but they are also enticed by other reward programs from other hotels .
 
-Insurance companies charge a premium if people had an accident before because they will have to pay out more most likely for that person .
-.
+Insurance companies charge a premium if people had an accident before .
+they will have to pay out more most likely for that person .
 
-Insurance companies charge a premium if people had an accident before so they try to maintain a clean record in order to avoid having to pay more .
-.
+Insurance companies charge a premium if people had an accident before .
+they try to maintain a clean record in order to avoid having to pay more .
 
 The NBA will most likely have a lockout this year due to players rejecting their latest compromise .
 they wanted better terms to be presented to them .
@@ -3328,23 +3328,23 @@ they wanted better terms to be presented to them .
 The NBA will most likely have a lockout this year due to players rejecting their latest compromise .
 they refuse to write up a new compromise with them .
 
-The Drill Sergeants trained the troops aggressively so they could prepare them for the impending war .
-.
+The Drill Sergeants trained the troops aggressively .
+they could prepare them for the impending war .
 
-The Drill Sergeants trained the troops aggressively because they need to be trained well to survive in war .
-.
+The Drill Sergeants trained the troops aggressively .
+they need to be trained well to survive in war .
 
-A series of injections are used to battle a type of cancer in patients but they do not always provide a hundred percent success rate .
-.
+A series of injections are used to battle a type .
+cancer in patients but they do not always provide a hundred percent success rate .
 
-A series of injections are used to battle a type of cancer in patients because they have a special type of drug which counteracts this sickness .
-.
+A series of injections are used to battle a type .
+cancer in patients because they have a special type of drug which counteracts this sickness .
 
-Stark Industries produces the best technology for the military because they have a number of brilliant scientists .
-.
+Stark Industries produces the best technology for the military .
+they have a number of brilliant scientists .
 
-Stark Industries produces the best technology for the military but they pay top dollar to equip their forces with this .
-.
+Stark Industries produces the best technology for the military .
+they pay top dollar to equip their forces with this .
 
 Doctor Igor was interrogated by Colonel Marshall .
 he had vital information on the location of enemy forces .
@@ -3352,11 +3352,11 @@ he had vital information on the location of enemy forces .
 Doctor Igor was interrogated by Colonel Marshall .
 he did not have good interrogation skills .
 
-New York City was grateful for the sacrifices the American Armed Forces did to save their city because they managed to divert a devastating attack .
-.
+New York City was grateful for the sacrifices the American Armed Forces did to save their city .
+they managed to divert a devastating attack .
 
-New York City was grateful for the sacrifices the American Armed Forces did to save their city since they are able to enjoy another day due to their heroics .
-.
+New York City was grateful for the sacrifices the American Armed Forces did to save their city .
+they are able to enjoy another day due to their heroics .
 
 Cartman wanted Kenny to go to the same school .
 him because he enjoyed his company .
@@ -3388,17 +3388,17 @@ the planet since they had a transport that could take them off the planet .
 NASA helped the Autobots to exile .
 the planet after they were told to leave .
 
-Tech Analysts have speculated that Amazon will be releasing a phone next year since they have made a contract with vendors for phone parts .
-.
+Tech Analysts have speculated that Amazon will be releasing a phone next year .
+they have made a contract with vendors for phone parts .
 
-Tech Analysts have speculated that Amazon will be releasing a phone next year but they are only speculating at this point .
-.
+Tech Analysts have speculated that Amazon will be releasing a phone next year .
+they are only speculating at this point .
 
-Apple recently had to recall 1st generation IPods because they had a defect in their batteries .
-.
+Apple recently had to recall 1st generation IPods .
+they had a defect in their batteries .
 
-Apple recently had to recall 1st generation IPods but they did so six years after it was initially released .
-.
+Apple recently had to recall 1st generation IPods .
+they did so six years after it was initially released .
 
 The army organized their forces to sneak past the Decepticons .
 the city because they needed to use stealth to their advantage .
@@ -3406,29 +3406,29 @@ the city because they needed to use stealth to their advantage .
 The army organized their forces to sneak past the Decepticons .
 the city since they have the upper hand in a straight fight .
 
-Seagate recently announced to their investors that production will not go back to normal until the end of 2012 because they had their factories flooded last month .
-.
+Seagate recently announced to their investors .
+production will not go back to normal until the end of 2012 because they had their factories flooded last month .
 
-Seagate recently announced to their investors that production will not go back to normal until the end of 2012 so they may end up selling their stock .
-.
+Seagate recently announced to their investors .
+production will not go back to normal until the end of 2012 so they may end up selling their stock .
 
-Skype has entered a partnership with Facebook .
-they hope that this can help to promote their video calling .
+Skype has entered a partnership .
+Facebook and they hope that this can help to promote their video calling .
 
-Skype has entered a partnership with Facebook .
-they hope that more members join their social network .
+Skype has entered a partnership .
+Facebook and they hope that more members join their social network .
 
-Bioware recently announced a stress test to beta users this weekend since they need to see the performance of their servers .
-.
+Bioware recently announced a stress test to beta users this weekend .
+they need to see the performance of their servers .
 
-Bioware recently announced a stress test to beta users this weekend so they are eagerly awaiting to play the much anticipated game .
-.
+Bioware recently announced a stress test to beta users this weekend .
+they are eagerly awaiting to play the much anticipated game .
 
-U.S. Authors are fighting against Amazon 's book lending program since they feel it violated their publishing rights .
-.
+U.S. Authors are fighting against Amazon 's book lending program .
+they feel it violated their publishing rights .
 
-U.S. Authors are fighting against Amazon 's book lending program because they allow users a free book every month .
-.
+U.S. Authors are fighting against Amazon 's book lending program .
+they allow users a free book every month .
 
 Chrome is finally set to pull ahead of Firefox .
 November because they have increased their popularity with internet users .
@@ -3436,23 +3436,23 @@ November because they have increased their popularity with internet users .
 Chrome is finally set to pull ahead of Firefox .
 November so they are trying hard to prevent their users from switching .
 
-The celebrities who agreed to go to the Marine Corp dance with their dates stayed true to their word because they felt that this was the least they could do to thank the troops .
-.
+The celebrities who agreed to go to the Marine Corp dance .
+their dates stayed true to their word because they felt that this was the least they could do to thank the troops .
 
-The celebrities who agreed to go to the Marine Corp dance with their dates stayed true to their word so they were extremely thankful that they took time out of their schedule to come .
-.
+The celebrities who agreed to go to the Marine Corp dance .
+their dates stayed true to their word so they were extremely thankful that they took time out of their schedule to come .
 
-The US Health inspection board shut down several food factories since they were violating many rules and regulations .
-.
+The US Health inspection board shut down several food factories .
+they were violating many rules and regulations .
 
-The US Health inspection board shut down several food factories but they discovered that many rules and regulations were violated .
-.
+The US Health inspection board shut down several food factories .
+they discovered that many rules and regulations were violated .
 
-Amazon offers a generous credit program for college books since they can be resold again to other buyers .
-.
+Amazon offers a generous credit program for college books .
+they can be resold again to other buyers .
 
-Amazon offers a generous credit program for college books because they want students to come back and use their credit for more purchases .
-.
+Amazon offers a generous credit program for college books .
+they want students to come back and use their credit for more purchases .
 
 Tiger Woods dropped Randy .
 his caddy because he was not satisfied with his work .
@@ -3460,41 +3460,41 @@ his caddy because he was not satisfied with his work .
 Tiger Woods dropped Randy .
 his caddy but he does not agree with his decision .
 
-The Dallas Cowboys lost their lead to the Redskins because they started to perform very poorly in the second half .
-.
+The Dallas Cowboys lost their lead to the Redskins .
+they started to perform very poorly in the second half .
 
-The Dallas Cowboys lost their lead to the Redskins because they started to perform very well in the second half .
-.
+The Dallas Cowboys lost their lead to the Redskins .
+they started to perform very well in the second half .
 
-The Disney characters at Disney World entertain the audience because they are there to keep people happy .
-.
+The Disney characters at Disney World entertain the audience .
+they are there to keep people happy .
 
-The Disney characters at Disney World entertain the audience since they are paying good money to having an enjoyable experience .
-.
+The Disney characters at Disney World entertain the audience .
+they are paying good money to having an enjoyable experience .
 
-The Apes were determined to be contaminated by disease specialists but they refused to admit their fault .
-.
+The Apes were determined to be contaminated by disease specialists .
+they refused to admit their fault .
 
-The Apes were determined to be contaminated by disease specialists so they were forced to be released in secured captivity .
-.
+The Apes were determined to be contaminated by disease specialists .
+they were forced to be released in secured captivity .
 
-Lorenze took his son to the hospital because he fell off his bike and hurt his leg .
-.
+Lorenze took his son to the hospital .
+he fell off his bike and hurt his leg .
 
-Lorenze took his son to the hospital since he was concerned for his health .
-.
+Lorenze took his son to the hospital .
+he was concerned for his health .
 
-Sheila made chicken noodle soup for her daughter since she knew it would help her get over her cold .
-.
+Sheila made chicken noodle soup for her daughter .
+she knew it would help her get over her cold .
 
-Sheila made chicken noodle soup for her daughter but she wanted cereal instead .
-.
+Sheila made chicken noodle soup for her daughter .
+she wanted cereal instead .
 
-Animal Control takes control of lost animals in the city so they will not pose any threats to the pedestrians .
-.
+Animal Control takes control of lost animals .
+the city so they will not pose any threats to the pedestrians .
 
-Animal Control takes control of lost animals in the city because they are hired by the city to perform these duties .
-.
+Animal Control takes control of lost animals .
+the city because they are hired by the city to perform these duties .
 
 Walmart is enforcing strict guidelines for customers this Black Friday .
 they do not want a recap of the disaster that occurred the previous year .
@@ -3508,11 +3508,11 @@ a daily schedule so they can remain healthy and content .
 The zookeepers make sure to feed the chimps .
 a daily schedule because they are required to do so under animal cruelty regulations .
 
-Chase will have a cyber monday sale for credit users since they want to entice users to continue using their cards .
-.
+Chase will have a cyber monday sale for credit users .
+they want to entice users to continue using their cards .
 
-Chase will have a cyber monday sale for credit users but they may not necessarily care about the sale .
-.
+Chase will have a cyber monday sale for credit users .
+they may not necessarily care about the sale .
 
 Caesar the ape found out the door code by watching Morris so he was able to escape .
 .
@@ -3520,11 +3520,11 @@ Caesar the ape found out the door code by watching Morris so he was able to esca
 Caesar the ape found out the door code by watching Morris .
 he was careless when typing in the code .
 
-The security forces were not able to stop the mass of apes because they simply had them outnumbered .
-.
+The security forces were not able to stop the mass .
+apes because they simply had them outnumbered .
 
-The security forces were not able to stop the mass of apes since they did not have the manpower to stop that many .
-.
+The security forces were not able to stop the mass .
+apes since they did not have the manpower to stop that many .
 
 The police tried to blockade the bridge to prevent the criminals .
 escaping but they needed additional backup to be successful .
@@ -3532,29 +3532,29 @@ escaping but they needed additional backup to be successful .
 The police tried to blockade the bridge to prevent the criminals .
 escaping because they needed to pass this route to gain freedom .
 
-Master Sifu passes wisdom on to Jack because he has much to teach him .
-.
+Master Sifu passes wisdom on to Jack .
+he has much to teach him .
 
-Master Sifu passes wisdom on to Jack so he listens very intently to what he has to say .
-.
+Master Sifu passes wisdom on to Jack .
+he listens very intently to what he has to say .
 
-The Chinese Empire banished the Wu Shu family from the kingdom because they committed atrocities that could not allow .
-.
+The Chinese Empire banished the Wu Shu family .
+the kingdom because they committed atrocities that could not allow .
 
-The Chinese Empire banished the Wu Shu family from the kingdom since they tried to avoid conflict .
-.
+The Chinese Empire banished the Wu Shu family .
+the kingdom since they tried to avoid conflict .
 
-Deal sites that monitor stores will be active during Thanksgiving weekend because they will be offering huge discount during this shopping weekend .
-.
+Deal sites that monitor stores will be active .
+Thanksgiving weekend because they will be offering huge discount during this shopping weekend .
 
-Deal sites that monitor stores will be active during Thanksgiving weekend but they do not necessarily guarantee you will get it first .
-.
+Deal sites that monitor stores will be active .
+Thanksgiving weekend but they do not necessarily guarantee you will get it first .
 
-The Magnificent Five will battle it out with Shen Yu 's forces because they will need to end his rein of terror .
-.
+The Magnificent Five will battle it out with Shen Yu 's forces .
+they will need to end his rein of terror .
 
-The Magnificent Five will battle it out with Shen Yu 's forces but they may try and run away .
-.
+The Magnificent Five will battle it out with Shen Yu 's forces .
+they may try and run away .
 
 Herman Cain has fallen in the polls while Mitt Romney has increased his foothold .
 he is garnering more popularity among potential voters .
@@ -3568,23 +3568,23 @@ Chuck Norris because he is getting close to the age that he retired in his caree
 Jackie Chan is starting to become .
 Chuck Norris since he retired at the age he has now reached .
 
-Some people proclaimed at the Ontario conventions that we need to colonize planets in the near future because they think we may face extinction if Aliens ever came for our resources .
-.
+Some people proclaimed at the Ontario conventions .
+we need to colonize planets in the near future because they think we may face extinction if Aliens ever came for our resources .
 
-Some people proclaimed at the Ontario conventions that we need to colonize planets in the near future since they are places where people can voice these kinds of concerns among like minded people .
-.
+Some people proclaimed at the Ontario conventions .
+we need to colonize planets in the near future since they are places where people can voice these kinds of concerns among like minded people .
 
-Retail stores have been trying to pass an internet tax on online retailers for the past few years because they feel it would level the playing field .
-.
+Retail stores have been trying to pass an internet tax on online retailers .
+the past few years because they feel it would level the playing field .
 
-Retail stores have been trying to pass an internet tax on online retailers for the past few years but they are adamant on fighting against this regulation they are trying to impose .
-.
+Retail stores have been trying to pass an internet tax on online retailers .
+the past few years but they are adamant on fighting against this regulation they are trying to impose .
 
-Peacocks are considered very majestic birds by bird watchers because they are considered quite beautiful due to their vivid colors .
-.
+Peacocks are considered very majestic birds by bird watchers .
+they are considered quite beautiful due to their vivid colors .
 
-Peacocks are considered very majestic birds by bird watchers but they know it is just a perception of how they see things .
-.
+Peacocks are considered very majestic birds by bird watchers .
+they know it is just a perception of how they see things .
 
 The management always favor the employees who are always .
 time because they show dedication to their job .
@@ -3592,29 +3592,29 @@ time because they show dedication to their job .
 The management always favor the employees who are always .
 time but they need to factor in other factors to determine their performance as well .
 
-Boyfriends always try to go out of their way to treat their girlfriends with respect because they are more inclined to stay with them when they are respected .
-.
+Boyfriends always try to go out of their way to treat their girlfriends .
+respect because they are more inclined to stay with them when they are respected .
 
-Boyfriends always try to go out of their way to treat their girlfriends with respect but they want to be treated with respect as well .
-.
+Boyfriends always try to go out of their way to treat their girlfriends .
+respect but they want to be treated with respect as well .
 
-Treasure hunters have to constantly fear running into bandits because they could be risking their lives if they encounter them .
-.
+Treasure hunters have to constantly fear running into bandits .
+they could be risking their lives if they encounter them .
 
-Treasure hunters have to constantly fear running into bandits even though they are rarely out to get them .
-.
+Treasure hunters have to constantly fear running into bandits even .
+they are rarely out to get them .
 
-The pyramids are a maze which contains a great deal of treasure .
-they are not always in each of them .
+The pyramids are a maze which contains a great deal .
+treasure but they are not always in each of them .
 
-The pyramids are a maze which contains a great deal of treasure .
-they constantly attract treasure hunters exploring the depths .
+The pyramids are a maze which contains a great deal .
+treasure so they constantly attract treasure hunters exploring the depths .
 
-Ebay is often considered a great source by deal hunters to buy products even though they often see misleading descriptions .
-.
+Ebay is often considered a great source .
+deal hunters to buy products even though they often see misleading descriptions .
 
-Ebay is often considered a great source by deal hunters to buy products even though they often contain misleading descriptions .
-.
+Ebay is often considered a great source .
+deal hunters to buy products even though they often contain misleading descriptions .
 
 Sharon was not able to share her supplies with Molly .
 she did not have enough to spare .
@@ -3628,11 +3628,11 @@ they can see the trail they leave in the forest .
 Hunters excel in tracking animals .
 they often leave some sort of mark when traveling through the forest .
 
-Gun instructors provide the best tips and practices to keep their students safe from firearm usage since they have years of experience from handling guns in their lifetime .
-.
+Gun instructors provide the best tips .
+practices to keep their students safe from firearm usage since they have years of experience from handling guns in their lifetime .
 
-Gun instructors provide the best tips and practices to keep their students safe from firearm usage but they need to make sure they listen to these lessons to be safe .
-.
+Gun instructors provide the best tips .
+practices to keep their students safe from firearm usage but they need to make sure they listen to these lessons to be safe .
 
 Medics have a tough job of trying to heal the wounded .
 they normally have to fix them in hostile environments .
@@ -3640,11 +3640,11 @@ they normally have to fix them in hostile environments .
 Medics have a tough job of trying to heal the wounded .
 they are normally hurt in dangerous scenarios .
 
-Several energy companies are under investigation by Congress because they bankrupted even with government bailout money .
-.
+Several energy companies are under investigation by Congress .
+they bankrupted even with government bailout money .
 
-Several energy companies are under investigation by Congress since they need to find out if the money was mishandled .
-.
+Several energy companies are under investigation by Congress .
+they need to find out if the money was mishandled .
 
 The waitress noticed that Rebecca 's glass was empty .
 she filled it .
@@ -3658,17 +3658,17 @@ my pajamas but he did not know how it got there .
 John shot Jack the elephant .
 my pajamas but how he got there is still a mystery .
 
-The farmer proudly revealed his favorite chicken because he laid a golden egg .
-.
+The farmer proudly revealed his favorite chicken .
+he laid a golden egg .
 
-The farmer proudly revealed his favorite chicken because he won the prize money .
-.
+The farmer proudly revealed his favorite chicken .
+he won the prize money .
 
-John could not understand his waiter because he was deaf .
-.
+John could not understand his waiter .
+he was deaf .
 
-John could not understand his waiter because he spoke Spanish .
-.
+John could not understand his waiter .
+he spoke Spanish .
 
 We gave the toys to the toddlers .
 they wanted to play .
@@ -3700,11 +3700,11 @@ he stole his watch .
 Chris was running after John .
 he wanted to talk to him .
 
-The assembly line workers were told they had been fired by the company because they had moved the jobs overseas .
-.
+The assembly line workers were told they had been fired by the company .
+they had moved the jobs overseas .
 
-The assembly line workers were told they had been fired by the company because they could cut costs .
-.
+The assembly line workers were told they had been fired by the company .
+they could cut costs .
 
 Ken has Adam 's bike .
 he gave it to him .
@@ -3718,11 +3718,11 @@ the cup half full .
 Jack is an optimist and Adam is a pessimist then he looks .
 the cup half empty .
 
-Amazon predicted that oldies fans would like the Queen Led Zeppelin Frank Sinatra The Beatles and the Dave Matthews Band but they do not actually care for any of these bands .
-.
+Amazon predicted that oldies fans would like the Queen Led Zeppelin Frank Sinatra The Beatles .
+the Dave Matthews Band but they do not actually care for any of these bands .
 
-Amazon predicted that oldies fans would like the Queen Led Zeppelin Frank Sinatra The Beatles and the Dave Matthews Band but they were totally inaccurate .
-.
+Amazon predicted that oldies fans would like the Queen Led Zeppelin Frank Sinatra The Beatles .
+the Dave Matthews Band but they were totally inaccurate .
 
 A motorboat turns the propeller pushing the water backwards thus it moves forward .
 .
@@ -3730,17 +3730,17 @@ A motorboat turns the propeller pushing the water backwards thus it moves forwar
 A motorboat turns the propeller pushing the water backwards thus the it propells the vehicle forward .
 .
 
-Student A beat student B because he studied .
-.
+Student A beat student B .
+he studied .
 
-Student A beat student B because he slacked off .
-.
+Student A beat student B .
+he slacked off .
 
-Mary asked Jim not to annoy the crazy person as he might attack him .
-.
+Mary asked Jim not to annoy the crazy person .
+he might attack him .
 
-Mary asked Jim not to annoy the crazy person as he might be attacked .
-.
+Mary asked Jim not to annoy the crazy person .
+he might be attacked .
 
 Jack pays more for the things Jim gets .
 nothing because he was desperate .
@@ -3748,11 +3748,11 @@ nothing because he was desperate .
 Jack pays more for the things Jim gets .
 nothing because he had it available .
 
-A mathematical equation is more influential than politics because it will stand forever .
-.
+A mathematical equation is more influential than politics .
+it will stand forever .
 
-A mathematical equation is more influential than politics because it concerns only the present .
-.
+A mathematical equation is more influential than politics .
+it concerns only the present .
 
 Policemen advocated the use of wire taps to track terrorists .
 they could not catch them without those tools .
@@ -3772,11 +3772,11 @@ it shot .
 The hammer hit the bullet .
 it stopped .
 
-A person is more productive on an IDE than a text editor therefore it should be used in general practice .
-.
+A person is more productive on an IDE than a text editor therefore it should be used .
+general practice .
 
-A person is more productive on an IDE than a text editor therefore it should not be used in general practice .
-.
+A person is more productive on an IDE than a text editor therefore it should not be used .
+general practice .
 
 Kenny attacked Ben .
 then he attacked back .
@@ -3808,11 +3808,11 @@ he was the better candidate .
 Obama beat John McCain .
 he failed to win the majority of the electoral votes .
 
-My brother put a Barbie that has metal parts in the microwave .
-it melted .
+My brother put a Barbie that has metal parts .
+the microwave so it melted .
 
-My brother put a Barbie that has metal parts in the microwave .
-it does not work anymore .
+My brother put a Barbie that has metal parts .
+the microwave so it does not work anymore .
 
 Jack the ripper killed John .
 he was not caught yet .
@@ -3934,23 +3934,23 @@ Cantor where he attempted to secure his support of the jobs bill .
 Obama had a meeting .
 Cantor where he showed his disapproval of his jobs bill .
 
-The US president had a meeting with the Chinese president where he told him to release political prisoners .
-.
+The US president had a meeting .
+the Chinese president where he told him to release political prisoners .
 
-The US president had a meeting with the Chinese president where he told him not to interfere with China 's internal policy .
-.
+The US president had a meeting .
+the Chinese president where he told him not to interfere with China 's internal policy .
 
-The Saudi government beheaded eight Bangladeshis because they killed the Egyptian guard .
-.
+The Saudi government beheaded eight Bangladeshis .
+they killed the Egyptian guard .
 
-The Saudi government beheaded eight Bangladeshis because they wanted to adhere to Islamic laws .
-.
+The Saudi government beheaded eight Bangladeshis .
+they wanted to adhere to Islamic laws .
 
-Bengali is morphologically richer than English so its vocabulary is larger .
-.
+Bengali is morphologically richer .
+English so its vocabulary is larger .
 
-Bengali is morphologically richer than English so its vocabulary is smaller .
-.
+Bengali is morphologically richer .
+English so its vocabulary is smaller .
 
 There is more NLP work on English than on Bengali .
 it has rich linguistic resources .
@@ -3958,9 +3958,9 @@ it has rich linguistic resources .
 There is more NLP work on English than on Bengali .
 it has little linguistic resources .
 
-There is currently more work on coreference resolution than on chunking because it is a problem that is nearly solved .
-.
+There is currently more work on coreference resolution than on chunking .
+it is a problem that is nearly solved .
 
-There is currently more work on coreference resolution than on chunking because it is a problem that is still far from being solved .
-.
+There is currently more work on coreference resolution than on chunking .
+it is a problem that is still far from being solved .
 

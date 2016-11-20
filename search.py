@@ -1,7 +1,6 @@
 import requests
-from bs4 import BeautifulSoup
 import re
-import run_shell
+
 
 # import argparse
 
@@ -15,19 +14,25 @@ def google_search(word):
                      # params={'q':'"'+word+'"',
                      #         "tbs": "li:1"}
                     )
-    print r
 
-    if r.status_code != 200:
-        print('Google gg')
+    if r.status_code == 200:
+        data = r.text
+        s = data.find("\"resultStats\"")
+        ss = data[s:s + 100].find("</div>")
+    else:
+        print('Google gg, go bing')
+        r = requests.get('https://www.bing.com/search?q=\"' + word + '\"')
+        data = r.text
+        s = data.find("\"sb_count\">")
+        ss = data[s:s + 40].find("</span>")
+        if r.status_code != 200:
+            print ('Bing gg, go die')
+
 
     # soup = BeautifulSoup(r.text, "html.parser")
     # s = soup.find('div', {'id': 'resultStats'}).text
-    data = r.text
-    print data
-    s = data.find("\"resultStats\"")
-    print s
-    ans = re.findall(r'\d+', data[s, s+100])
-    print "ans=", ans
+
+    ans = re.findall(r'\d+', data[s: s+ss])
     num = 0
     for i in range(0, len(ans)):
         num = num * 1000 + int(ans[i])
