@@ -10,7 +10,7 @@ import re
 
 
 def google_search(word):
-    r = requests.get('https://www.google.com/search?q=\"'+word+'\"'
+    r = requests.get('https://www.google.com.hk/search?q=\"'+word+'\"'
                      # params={'q':'"'+word+'"',
                      #         "tbs": "li:1"}
                     )

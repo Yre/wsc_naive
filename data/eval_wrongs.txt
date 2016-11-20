@@ -1,6 +1,3 @@
-Caroline quickly defeated Sue because she lost her confidence.
-Right:Sue  Your ans:Sue
-
-Firefox is used more than Internet Explorer because it is more stable.
-Right:Firefox  Your ans:Firefox
+There is more NLP work on English than on Bengali because it has little linguistic resources.
+Right:Bengali  Your ans:Bengali
 
