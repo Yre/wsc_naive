@@ -1,15 +1,21 @@
 from sets import Set
 
 
+def simplify_word(word):
+    sim_word = word
+    if word[0:4] == 'The ' or word[0:4] == 'the ':
+        sim_word = word[4:]
+    elif word[0:2] == 'A ' or word[0:2] == 'a ':
+        sim_word = word[2:]
+    elif word[0:3] == 'An ' or word[0:3] == 'an ':
+        sim_word = word[3:]
+    return sim_word
+
+
 def simplify_candidates(candidate):
     sim_candidate = candidate
     for i in range(0, 2):
-        if candidate[i][0:4] == 'The ' or candidate[i][0:4] == 'the ':
-            sim_candidate[i] = candidate[i][4:]
-        elif candidate[i][0:2] == 'A ' or candidate[i][0:2] == 'a ':
-            sim_candidate[i] = candidate[i][2:]
-        elif candidate[i][0:3] == 'An ' or candidate[i][0:3] == 'an ':
-            sim_candidate[i] = candidate[i][3:]
+        sim_candidate[i] = simplify_word(candidate[i])
     return sim_candidate
 
 
