@@ -59,7 +59,7 @@ def get_json_broken_sent(num_of_sentences, sent_list):
         raw_sent_file.write("%s\n" % item)
 
     input_name = 'broken_sent.txt'
-    # run_shell.stanfordnlp_shell(input_name)
+    run_shell.stanfordnlp_shell(input_name)
     f = open('data/broken_sent.txt.json', 'r')
 
     data_json = json.load(f)

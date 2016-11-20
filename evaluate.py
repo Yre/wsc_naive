@@ -14,14 +14,15 @@ def evaluate(sent_list, answer_list, key_list):
         simp_key = simplifier.simplify_word(key_list[i])
         if simp_key == answer_list[i]:
             right_answer += 1
-            fr.write(sent_list[i]+'\n')
+            fr.write(simp_key+'\n')
             fr.write(key_list[i]+'\n\n')
         else:
             wrong_list.append(i)
             fw.write(sent_list[i]+'\n')
             fw.write('Right:' + key_list[i]+'\n')
-            fw.write('Your ans:' + answer_list[i]+'\n\n')
-
+            fw.write('Your ans:' + simp_key+'\n\n')
+    fw.close()
+    fr.close()
     print 'Accuracy: ', right_answer, ' / ', sent_number
 
 

@@ -2,7 +2,10 @@ import data_provider
 import simplifier
 import search
 import evaluate
-import run_shell
+# import run_shell
+# # import sys
+# from GoogleScraper import scrape_with_config, GoogleSearchError
+# from GoogleScraper.utils import get_some_words
 
 
 def list_to_string(list):
@@ -18,8 +21,10 @@ if __name__ == '__main__':
     full_tokens, depend_list = data_provider.get_json_sent(num_of_sentences, sent_list)
 
     candidate_list = []
-    for i in range(0, num_of_sentences):
+    for i in range(0, num_of_sentences): # get rid of the/a
         candidate_list.append(simplifier.simplify_candidates(origin_candidate_list[i]))
+
+
 
     # broken_sent_list a list(sent) of list(word) of dict
     # broken_sent_list a list of strings
@@ -27,8 +32,13 @@ if __name__ == '__main__':
     broken_sent_list = []
     broken_sent_string_list = []
     f = open('data/broken_sent.txt', 'w+')
+    fgg = open('data/broke_fail.txt', 'w+')
     for i in range(0, num_of_sentences):
-        sent1, sent2, conn_dict = simplifier.break_by_conn(candidate_list[i], full_tokens[i])
+        c1_name, c2_name = simplifier.check_candidate_name(candidate_list[i], full_tokens[i])
+        sent1, sent2, conn_dict = simplifier.break_by_conn(origin_candidate_list[i], candidate_list[i], full_tokens[i], c1_name, c2_name)
+        if conn_dict == 'GG':
+            fgg.write(sent_list[i]+'\n\n')
+
         broken_sent_list.append(sent1)
         broken_sent_list.append(sent2)
 
@@ -48,6 +58,7 @@ if __name__ == '__main__':
         f.write('.\n\n')
 
     f.close()
+    fgg.close()
     broken_tokens, broken_depend_list = data_provider.get_json_broken_sent(num_of_sentences*2, broken_sent_string_list)
 
     print broken_tokens
@@ -67,6 +78,7 @@ if __name__ == '__main__':
         be_sentence, be_index = simplifier.query_type(broken_tokens[i*2+1], 'lemma', 'be')
         _, pronoun_index = simplifier.query_type(broken_tokens[i*2+1], 'word', pronoun_list[i])
 
+
         latter_sent = []
         for j in range(0, len(broken_tokens[i*2+1])-1):
             latter_sent.append(str(broken_tokens[i*2+1][j]['word']))
@@ -85,7 +97,6 @@ if __name__ == '__main__':
         else:
             feature[i].append([0, 0])
             print "No decision"
-
 
         for j in range(2):
             if feature[i][0][j] == 1:

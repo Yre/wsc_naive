@@ -1,1 +1,4 @@
-The knife sliced through the flesh because it was sharp.Right:The knifeYour ans:knifeThe bee landed on the flower because it had pollen.Right:The beeYour ans:flower
+The bee landed on the flower because it had pollen.
+Right:The bee
+Your ans:bee
+
