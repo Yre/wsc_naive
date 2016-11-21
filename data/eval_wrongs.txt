@@ -1,3 +1,0 @@
-There is more NLP work on English than on Bengali because it has little linguistic resources.
-Right:Bengali  Your ans:Bengali
-

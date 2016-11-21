@@ -14,16 +14,18 @@ def evaluate(sent_list, answer_list, key_list):
     fw = open('data/eval_wrongs.txt', 'w+')
     fr = open('data/eval_rights.txt', 'w+')
     fn = open('data/eval_no_decision.txt', 'w+')
+
+    print answer_list
     # f = open('data/result.txt','w+')
     for i in range(0, sent_number):
-        if answer_list[i][0] == "NO_DECISION":
-            continue
+        # if answer_list[i][1] == "NO_DECISION":
+        #     continue
         print "\nSentence # ",i
         simp_key = simplifier.simplify_word(key_list[i])
-        print sent_list[i]
-        print "answer: ", key_list[i]
-        print "Chain: ", answer_list[i][0]
-        print "Search: ", answer_list[i][1]
+        # print sent_list[i]
+        # print "answer: ", key_list[i]
+        # print "Chain: ", answer_list[i][0]
+        # print "Search: ", answer_list[i][1]
 
         ## answer list 2@!
         # for j in range(0, 2):

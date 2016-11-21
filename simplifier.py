@@ -69,4 +69,9 @@ def check_candidate_name(candidate_list, tokens):
                 c2_name = True
 
     return c1_name, c2_name
-
+#
+# def extract_svo(broken_depend_list, broken_tokens):
+#
+#
+#
+#     return subj_index, subj_word, verb_index, verb_word, obj_index, obj_word

@@ -4,6 +4,7 @@ import simplifier
 import search
 import evaluate
 import narrative_chain
+import init
 # import run_shell
 # # import sys
 # from GoogleScraper import scrape_with_config, GoogleSearchError
@@ -18,6 +19,7 @@ def list_to_string(list):
 
 
 if __name__ == '__main__':
+    # init.xml_to_txt('WSCExample.xml')
 
     num_of_sentences, sent_list, pronoun_list, origin_candidate_list, key_list = data_provider.read_data()
     full_tokens, depend_list = data_provider.get_json_sent(num_of_sentences, sent_list)
@@ -83,9 +85,30 @@ if __name__ == '__main__':
         feature.append([-1, -1])
         answer_list.append(["NO_DECISION", "NO_DECISION"])
 
-        _, pronoun_index = simplifier.query_type(broken_tokens[i * 2 + 1], 'word', pronoun_list[i], -1, -1)
-        if pronoun_index == -1: # the pronoun is before the conn
-            continue
+        pron_found, pronoun_index = simplifier.query_type(broken_tokens[i * 2 + 1], 'word', pronoun_list[i], -1, -1)
+        ############################################################
+         # Substitute and google it
+        if pron_found:
+            latter_sent = []
+            for j in range(0, len(broken_tokens[i * 2 + 1]) - 1):
+                latter_sent.append(str(broken_tokens[i * 2 + 1][j]['word']))
+
+            latter_sent[pronoun_index] = candidate_list[i][0]
+            C0_BJ = search.google_search(list_to_string(latter_sent))
+            latter_sent[pronoun_index] = candidate_list[i][1]
+            C1_BJ = search.google_search(list_to_string(latter_sent))
+
+            ##
+            # C1_BJ = 1000 C2_BJ = 0
+
+            if C0_BJ > C1_BJ * (1 + 0.2):
+                feature[i][0] = 0
+                print 'google ans: ', origin_candidate_list[i][0], ' vs ', key_list[i]
+                continue
+            elif C1_BJ > C0_BJ * (1 + 0.2):
+                feature[i][0] = 1
+                print 'google ans: ', origin_candidate_list[i][1], ' vs ', key_list[i]
+                continue
 
 
         ############################################################
@@ -100,142 +123,107 @@ if __name__ == '__main__':
         # if pos_of_root == 'JJ': # be + adj
         #     adj_word = root_volcab
 
-        verb_index = broken_depend_list[2 * i][root_dep_index]['dependent']
-        verb_word = broken_depend_list[2 * i][root_dep_index]['dependentGloss']
+        # simplifier.extract_sub_verb_obj(broken_depend_list, broken_tokens)
 
-        verb_nsubj, verb_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'nsubj', 'governorGloss', verb_word)
-        if not verb_nsubj:
-            verb_nmod, verb_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'nmod', 'governorGloss', verb_word)
-        subj_index = broken_depend_list[2 * i][verb_dep_index]['dependent']
-        subj_word = broken_depend_list[2 * i][verb_dep_index]['dependentGloss']
+        if pronoun_index != -1:  # the pronoun is after the conn
+            verb_index = broken_depend_list[2 * i][root_dep_index]['dependent']
+            verb_word = broken_depend_list[2 * i][root_dep_index]['dependentGloss']
 
-        verb_lemma = broken_tokens[2 * i][verb_index-1]['lemma']
+            verb_nsubj, verb_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'nsubj', 'governorGloss', verb_word)
+            if not verb_nsubj:
+                verb_nmod, verb_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'nmod', 'governorGloss', verb_word)
+            subj_index = broken_depend_list[2 * i][verb_dep_index]['dependent']
+            subj_word = broken_depend_list[2 * i][verb_dep_index]['dependentGloss']
 
-        _, obj_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'nsubjpass', 'governorGloss', verb_word)
-        if obj_dep_index == -1:
-            _, obj_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'dobj', 'governorGloss', verb_word)
-        obj_index = broken_depend_list[2 * i][obj_dep_index]['dependent']
-        obj_word = broken_depend_list[2 * i][obj_dep_index]['dependentGloss']
-        print subj_word, ' ', verb_word, ' ', obj_word
+            verb_lemma = broken_tokens[2 * i][verb_index-1]['lemma']
+
+            _, obj_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'nsubjpass', 'governorGloss', verb_word)
+            if obj_dep_index == -1:
+                _, obj_dep_index = simplifier.query_type(broken_depend_list[2 * i], 'dep', 'dobj', 'governorGloss', verb_word)
+            obj_index = broken_depend_list[2 * i][obj_dep_index]['dependent']
+            obj_word = broken_depend_list[2 * i][obj_dep_index]['dependentGloss']
+            print subj_word, ' ', verb_word, ' ', obj_word
 
 
-        # after conn
-        _, pronoun_index = simplifier.query_type(broken_tokens[i * 2 + 1], 'word', pronoun_list[i], -1, -1)
-        if pronoun_index == -1:  # the pronoun is before the conn
-            feature[i].append(-1)
-            continue
+            # after conn
 
-        _, latter_root_dep_index = simplifier.query_type(broken_depend_list[2 * i +1], 'dep', 'ROOT', -1, -1)
-        latter_verb_index = broken_depend_list[2 * i + 1][latter_root_dep_index]['dependent']
-        latter_verb_word = broken_depend_list[2 * i + 1][root_dep_index]['dependentGloss']
+            _, latter_root_dep_index = simplifier.query_type(broken_depend_list[2 * i +1], 'dep', 'ROOT', -1, -1)
+            latter_verb_index = broken_depend_list[2 * i + 1][latter_root_dep_index]['dependent']
+            latter_verb_word = broken_depend_list[2 * i + 1][root_dep_index]['dependentGloss']
 
-        latter_be_adj, latter_be_dep_index = simplifier.query_type(broken_depend_list[i * 2 + 1], 'dep', 'cop', 'governorGloss', latter_verb_word)
+            latter_be_adj, latter_be_dep_index = simplifier.query_type(broken_depend_list[i * 2 + 1], 'dep', 'cop', 'governorGloss', latter_verb_word)
 
-        if latter_be_adj: # be + adj
-            print 'be adj sentence!'
-            latter_be_index = broken_depend_list[2 * i + 1][latter_be_dep_index]['dependent']
-            latter_be_word = broken_depend_list[2 * i + 1][latter_be_dep_index]['dependentGloss']
-            latter_predicate_index = broken_depend_list[2 * i + 1][latter_be_dep_index]['governor']
-            latter_predicate_word = broken_depend_list[2 * i + 1][latter_be_dep_index]['governorGloss']
+            if latter_be_adj: # be + adj
+                print 'be adj sentence!'
+                latter_be_index = broken_depend_list[2 * i + 1][latter_be_dep_index]['dependent']
+                latter_be_word = broken_depend_list[2 * i + 1][latter_be_dep_index]['dependentGloss']
+                latter_predicate_index = broken_depend_list[2 * i + 1][latter_be_dep_index]['governor']
+                latter_predicate_word = broken_depend_list[2 * i + 1][latter_be_dep_index]['governorGloss']
 
-            _, latter_subj_dep_index = simplifier.query_type(broken_depend_list[2 * i + 1], 'dep', 'nsubj', 'governorGloss', latter_predicate_word)
-            latter_subj_word = broken_depend_list[2*i+1][latter_subj_dep_index]['dependentGloss']
-            latter_subj_index = broken_depend_list[2 * i + 1][latter_subj_dep_index]['dependent']
+                _, latter_subj_dep_index = simplifier.query_type(broken_depend_list[2 * i + 1], 'dep', 'nsubj', 'governorGloss', latter_predicate_word)
+                latter_subj_word = broken_depend_list[2*i+1][latter_subj_dep_index]['dependentGloss']
+                latter_subj_index = broken_depend_list[2 * i + 1][latter_subj_dep_index]['dependent']
 
-            print latter_subj_word, ' ', latter_be_word, ' ', latter_predicate_word
+                print latter_subj_word, ' ', latter_be_word, ' ', latter_predicate_word
 
-        else:
-            latter_verb_lemma = broken_tokens[2 * i + 1][latter_verb_index-1]['lemma']
-            latter_nsubj, latter_verb_subj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'nsubj')
-            if latter_nsubj:
-                latter_subj_word = broken_depend_list[2*i+1][latter_verb_subj_dep]['dependentGloss']
-                latter_subj_index = broken_depend_list[2 * i + 1][latter_verb_subj_dep]['dependent']
             else:
-                latter_nmod, latter_verb_subj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'nmod')
-                latter_subj_word = broken_depend_list[2 * i + 1][latter_verb_subj_dep]['dependentGloss']
-                latter_subj_index = broken_depend_list[2 * i + 1][latter_verb_subj_dep]['dependent']
+                latter_verb_lemma = broken_tokens[2 * i + 1][latter_verb_index-1]['lemma']
+                latter_nsubj, latter_verb_subj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'nsubj')
+                if latter_nsubj:
+                    latter_subj_word = broken_depend_list[2*i+1][latter_verb_subj_dep]['dependentGloss']
+                    latter_subj_index = broken_depend_list[2 * i + 1][latter_verb_subj_dep]['dependent']
+                else:
+                    latter_nmod, latter_verb_subj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'nmod')
+                    latter_subj_word = broken_depend_list[2 * i + 1][latter_verb_subj_dep]['dependentGloss']
+                    latter_subj_index = broken_depend_list[2 * i + 1][latter_verb_subj_dep]['dependent']
 
-            latter_obj_exist = True
-            latter_dobj, latter_verb_obj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'dobj')
-            if latter_dobj:
-                latter_obj_word = broken_depend_list[2 * i + 1][latter_verb_obj_dep]['dependentGloss']
-                latter_obj_index = broken_depend_list[2 * i + 1][latter_verb_obj_dep]['dependent']
-            else:
-                latter_nmod, latter_verb_obj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'nsubjpass')
-                if latter_nmod:
+                latter_obj_exist = True
+                latter_dobj, latter_verb_obj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'dobj')
+                if latter_dobj:
                     latter_obj_word = broken_depend_list[2 * i + 1][latter_verb_obj_dep]['dependentGloss']
                     latter_obj_index = broken_depend_list[2 * i + 1][latter_verb_obj_dep]['dependent']
                 else:
-                    latter_obj_exist = False
-
-            pron_objorsub, pron_dep_index = simplifier.query_type(broken_depend_list[2 * i + 1], 'dependentGloss', pronoun_list[i], 'governorGloss', latter_verb_word)
-
-            if latter_obj_exist:
-                print latter_subj_word, ' ', latter_verb_word, ' ', latter_obj_word
-            else:
-                print latter_subj_word, ' ', latter_verb_word
-
-            if not pron_objorsub:
-                feature[i].append(-1)
-                continue
-            pron_role = 'n'
-            if latter_subj_word == pronoun_list[i]:
-                print 'pronoun is subject!!'
-                pron_role = 's'
-            elif latter_obj_exist and latter_obj_word == pronoun_list[i]:
-                print 'pronoun is object!!!'
-                pron_role = 'o'
-            if pron_role == 'n':
-                feature[i].append(-1)
-                continue
-
-
-
-        if not latter_be_adj:
-            print verb_lemma, ' and ', latter_verb_lemma
-            can_role = narrative_chain.check(chains, pron_role, verb_lemma, latter_verb_lemma)
-            # print 'can role = ', can_role
-            # return 1 means pron should be the object one
-            if can_role != "NO_DECISION":
-                if candidate_list[i][0] == obj_word or candidate_list[i][1] == subj_word:
-                    if can_role:
-                        feature[i][0] = 0
+                    latter_nmod, latter_verb_obj_dep = simplifier.query_type(broken_depend_list[2 * i + 1], 'governor', latter_verb_index, 'dep', 'nsubjpass')
+                    if latter_nmod:
+                        latter_obj_word = broken_depend_list[2 * i + 1][latter_verb_obj_dep]['dependentGloss']
+                        latter_obj_index = broken_depend_list[2 * i + 1][latter_verb_obj_dep]['dependent']
                     else:
-                        feature[i][0] = 1
+                        latter_obj_exist = False
+
+                if latter_obj_exist:
+                    print latter_subj_word, ' ', latter_verb_word, ' ', latter_obj_word
                 else:
-                    # cand[0] is subject
-                    if can_role:
-                        feature[i][0] = 1
-                    else:
-                        feature[i][0] = 0
-        else:
-            feature[i].append(-1)
+                    print latter_subj_word, ' ', latter_verb_word
 
-        ############################################################
-        #  # Substitute and google it
-        # latter_sent = []
-        # for j in range(0, len(broken_tokens[i*2+1])-1):
-        #     latter_sent.append(str(broken_tokens[i*2+1][j]['word']))
-        #
-        # latter_sent[pronoun_index] = candidate_list[i][0]
-        # C0_BJ = search.google_search(list_to_string(latter_sent))
-        # latter_sent[pronoun_index] = candidate_list[i][1]
-        # C1_BJ = search.google_search(list_to_string(latter_sent))
-        #
-        # ##
-        # # C1_BJ = 1000 C2_BJ = 0
-        #
-        # if C0_BJ > C1_BJ * (1 + 0.2):
-        #     feature[i][1] = 0
-        #     print 'google ans: ', origin_candidate_list[i][0], ' vs ', key_list[i]
-        # elif C1_BJ > C0_BJ * (1 + 0.2):
-        #     feature[i][1] = 1
-        #     print 'google ans: ', origin_candidate_list[i][1], ' vs ', key_list[i]
-        # else:
-        #     print "google No decision"
+                pron_role = 'n'
+                if latter_subj_word == pronoun_list[i]:
+                    print 'pronoun is subject!!'
+                    pron_role = 's'
+                elif latter_obj_exist and latter_obj_word == pronoun_list[i]:
+                    print 'pronoun is object!!!'
+                    pron_role = 'o'
+
+            if (not latter_be_adj) and (pron_role != 'n'):
+                print verb_lemma, ' and ', latter_verb_lemma
+                can_role = narrative_chain.check(chains, pron_role, verb_lemma, latter_verb_lemma)
+                print 'can role = ', can_role
+                # return 1 means pron should be the object one
+                if can_role != "NO_DECISION":
+                    if candidate_list[i][0] == obj_word or candidate_list[i][1] == subj_word:
+                        if can_role:
+                            feature[i][0] = 0
+                        else:
+                            feature[i][0] = 1
+                    else:
+                        # cand[0] is subject
+                        if can_role:
+                            feature[i][0] = 1
+                        else:
+                            feature[i][0] = 0
 
         ############################################################
         # To answer list
+    for i in range(0, num_of_sentences):
         no_decision_flag = True
         num_of_feature = 2
         for j in range(num_of_feature):
