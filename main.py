@@ -36,8 +36,8 @@ if __name__ == '__main__':
     # BROKEN means # needs * 2!
     broken_sent_list = []
     broken_sent_string_list = []
-    f = open('data/broken_sent.txt', 'w+')
-    fgg = open('data/broke_fail.txt', 'w+')
+    f = open('data/broken_sent.txt', 'wb+')
+    fgg = open('data/broke_fail.txt', 'wb+')
     for i in range(0, num_of_sentences):
         c1_name, c2_name = simplifier.check_candidate_name(candidate_list[i], full_tokens[i])
         sent1, sent2, conn_dict = simplifier.break_by_conn(candidate_list[i], full_tokens[i])
@@ -238,11 +238,11 @@ if __name__ == '__main__':
                 C0_VJ = search.google_search(list_to_string(V_J0))
                 C1_VJ = search.google_search(list_to_string(V_J1))
 
-                if C0_BJ > C1_BJ * (1 + 0.1):
+                if C0_BJ > C1_BJ * (1 ):
                     feature[i][0] = 0
                     print 'google ans: ', origin_candidate_list[i][0], ' vs ', key_list[i]
                     continue
-                elif C1_BJ > C0_BJ * (1 + 0.1):
+                elif C1_BJ > C0_BJ * 1:
                     feature[i][0] = 1
                     print 'google ans: ', origin_candidate_list[i][1], ' vs ', key_list[i]
                     continue

@@ -1,5 +1,6 @@
 import shlex, subprocess
 from subprocess import call
+import os
 #
 # command_line = 'cd stanford-corenlp-full-2015-12-09'
 # args = shlex.split(command_line)
@@ -25,11 +26,19 @@ def stanfordnlp_shell(input_name):
     # print(args)
     # call(args)
 
-    args = ['java', '-cp', '/project/comp5211/stanford-corenlp-full-2015-12-09/*', '-Xmx2g',
-            'edu.stanford.nlp.pipeline.StanfordCoreNLP', '-annotators', 'tokenize,ssplit,pos,lemma,ner,parse,dcoref',
-            '-outputFormat', 'json', '-file', './data/' + input_name, '-outputDirectory', './data/']
-    print(args)
-    call(args)
+    #args = ['java', '-cp', '"/csproject/comp5211/stanford-corenlp-full-2015-12-09/*"', '-Xmx2g',
+    #        'edu.stanford.nlp.pipeline.StanfordCoreNLP', '-annotators', 'tokenize,ssplit,pos,lemma,ner,parse,dcoref',
+    #        '-outputFormat', 'json', '-file', './data/' + input_name, '-outputDirectory', './data/']
+    #print(args)
+    #call(args)
+    f = open("data/"+input_name,'r')
+    print '************'
+    for line in f:
+        print line
+        
+    os.system("/csproject/comp5211/stanford-corenlp-full-2015-12-09/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner,parse, dcoref -outputFormat json -file data/"+input_name+" -outputDirectory data/")
+    print "/csproject/comp5211/stanford-corenlp-full-2015-12-09/corenlp.sh -annotators tokenize,ssplit,pos,lemma,ner,parse, dcoref -outputFormat json -fi\
+le data/"+input_name+" -outputDirectory data/" 
     #
     # command_line = 'mv '+input_name+'.json'+' data'
     # args = shlex.split(command_line)
