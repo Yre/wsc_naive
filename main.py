@@ -88,30 +88,6 @@ if __name__ == '__main__':
         answer_list.append(["NO_DECISION", "NO_DECISION"])
 
         pron_found, pronoun_index = simplifier.query_type(broken_tokens[i * 2 + 1], 'word', pronoun_list[i], -1, -1)
-        ############################################################
-         # Substitute and google it
-        if pron_found:
-            latter_sent = []
-            for j in range(0, len(broken_tokens[i * 2 + 1]) - 1):
-                latter_sent.append(str(broken_tokens[i * 2 + 1][j]['word']))
-
-            latter_sent[pronoun_index] = candidate_list[i][0]
-            C0_BJ = search.google_search(list_to_string(latter_sent))
-            latter_sent[pronoun_index] = candidate_list[i][1]
-            C1_BJ = search.google_search(list_to_string(latter_sent))
-
-            ##
-            # C1_BJ = 1000 C2_BJ = 0
-
-            if C0_BJ > C1_BJ * (1 + 0.1):
-                feature[i][0] = 0
-                print 'google ans: ', origin_candidate_list[i][0], ' vs ', key_list[i]
-                continue
-            elif C1_BJ > C0_BJ * (1 + 0.1):
-                feature[i][0] = 1
-                print 'google ans: ', origin_candidate_list[i][1], ' vs ', key_list[i]
-                continue
-
 
         ############################################################
         #  Extract subject, verb, obj, pronoun
@@ -222,6 +198,55 @@ if __name__ == '__main__':
                             feature[i][0] = 1
                         else:
                             feature[i][0] = 0
+
+        ############################################################
+        # Substitute and google it
+        if pron_found and feature[i][0] == -1:
+            latter_sent = []
+            for j in range(0, len(broken_tokens[i * 2 + 1]) - 1):
+                latter_sent.append(str(broken_tokens[i * 2 + 1][j]['word']))
+
+            latter_sent[pronoun_index] = candidate_list[i][0]
+            C0_BJ = search.google_search(list_to_string(latter_sent))
+            latter_sent[pronoun_index] = candidate_list[i][1]
+            C1_BJ = search.google_search(list_to_string(latter_sent))
+
+            ##
+            # C1_BJ = 1000 C2_BJ = 0
+
+            if C0_BJ > C1_BJ * (1 + 0.1):
+                feature[i][0] = 0
+                print 'google ans: ', origin_candidate_list[i][0], ' vs ', key_list[i]
+                continue
+            elif C1_BJ > C0_BJ * (1 + 0.1):
+                feature[i][0] = 1
+                print 'google ans: ', origin_candidate_list[i][1], ' vs ', key_list[i]
+                continue
+            if feature[i][0] == -1:
+                _, latter_root_dep_index = simplifier.query_type(broken_depend_list[2 * i + 1], 'dep', 'ROOT', -1, -1)
+                latter_verb_index = broken_depend_list[2 * i + 1][latter_root_dep_index]['dependent']
+                latter_verb_word = broken_depend_list[2 * i + 1][root_dep_index]['dependentGloss']
+
+                if broken_tokens[2*i+1][latter_verb_index]['pos'] == 'JJ':
+                    V_J0 = latter_verb_word + ' ' + candidate_list[i][0]
+                    V_J1 = latter_verb_word + ' ' + candidate_list[i][1]
+                elif 'V' in broken_tokens[2*i+1][latter_verb_index]['pos']:
+                    V_J0 = candidate_list[i][0] + ' ' + latter_verb_word
+                    V_J1 = candidate_list[i][1] + ' ' + latter_verb_word
+                else:
+                    continue
+                C0_VJ = search.google_search(list_to_string(V_J0))
+                C1_VJ = search.google_search(list_to_string(V_J1))
+
+                if C0_BJ > C1_BJ * (1 + 0.1):
+                    feature[i][0] = 0
+                    print 'google ans: ', origin_candidate_list[i][0], ' vs ', key_list[i]
+                    continue
+                elif C1_BJ > C0_BJ * (1 + 0.1):
+                    feature[i][0] = 1
+                    print 'google ans: ', origin_candidate_list[i][1], ' vs ', key_list[i]
+                    continue
+
 
         ############################################################
         # To answer list

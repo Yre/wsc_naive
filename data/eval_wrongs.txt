@@ -1,3 +1,498 @@
 The bee landed on the flower because it had pollen.
 Right:the flower  Your ans:bee
 
+The man stole the neighbor's bike because he had one extra.
+Right:the neighbor  Your ans:man
+
+The bird perched on the limb and it bent.
+Right:the limb  Your ans:bird
+
+Mary cleaned Susan's room and she was thankful.
+Right:Susan  Your ans:Mary
+
+The doctor told Susan that she had been busy.
+Right:The doctor  Your ans:Susan
+
+The professor grading the student's paper said that he loved it.
+Right:The professor  Your ans:student
+
+Rocky lost to Clubber Lang because he was ready for the fight.
+Right:Clubber Lang  Your ans:Rocky
+
+Aaron kissed Dan because he wanted to.
+Right:Aaron  Your ans:Dan
+
+The students fell asleep during the professor's lectures because they were boring.
+Right:the professor's lectures  Your ans:students
+
+Jacob gave William money because he needed some.
+Right:William  Your ans:Jacob
+
+Jacob gave William money because he sold the car.
+Right:Jacob  Your ans:William
+
+Olivia tried to counsel Emily, but she was not interested.
+Right:Emily  Your ans:Olivia
+
+Olivia tried to counsel Emily, but she was rejected.
+Right:Olivia  Your ans:Emily
+
+Kurt flew in Alex's plane, and he thanked him.
+Right:Kurt  Your ans:Alex
+
+Bill was robbed by John, so the officer helped him.
+Right:Bill  Your ans:John
+
+He put snow on the smiley face because it was dry.
+Right:the smiley face  Your ans:snow
+
+I chopped down the tree with my axe because it was sharp.
+Right:my axe  Your ans:tree
+
+Spiderman defeated Magnito because he is a bad guy.
+Right:Magnito  Your ans:Spiderman
+
+Video games are outselling movies because they are an old medium.
+Right:movies  Your ans:Video games
+
+Sam cheated Sally but she did not cry.
+Right:Sally  Your ans:Sam
+
+Keith fired Blaine but he did not regret.
+Right:Keith  Your ans:Blaine
+
+Keith fired Blaine even though he is diligent.
+Right:Blaine  Your ans:Keith
+
+The zombies chased the survivors because they were hungry.
+Right:The zombies  Your ans:survivors
+
+Medvedev will cede the presidency to Putin because he is less popular.
+Right:Medvedev  Your ans:Putin
+
+The boy ran from the cop because he saw the crime.
+Right:the cop  Your ans:boy
+
+The boy tried to address his friend, but he could not hear.
+Right:his friend  Your ans:boy
+
+A biker sped past an officer and he got away.
+Right:A biker  Your ans:officer
+
+Jimbo eats more than Bobbert because he is on a diet.
+Right:Bobbert  Your ans:Jimbo
+
+The cabbage was in the freezer and it became frozen.
+Right:The cabbage  Your ans:freezer
+
+David hit Bill because Mary really liked him.
+Right:Bill  Your ans:David
+
+David hit Bill because Mary asked him to.
+Right:David  Your ans:Bill
+
+Caroline quickly defeated Sue because she lost her confidence.
+Right:Sue  Your ans:Caroline
+
+Firefox is used more than Internet Explorer because it is less stable.
+Right:Internet Explorer  Your ans:Firefox
+
+Paper beats rock, but it is beaten by scissors.
+Right:Paper  Your ans:rock
+
+The coach told the captain that he was fired.
+Right:the captain  Your ans:coach
+
+The nurse gave the girl a lollypop because she had too many.
+Right:The nurse  Your ans:girl
+
+The mechanic charged the man one hundred dollars although he had done no work.
+Right:The mechanic  Your ans:man
+
+It annoyed Chris when Sebastian jangled his keys because he wanted to make fun.
+Right:Sebastian  Your ans:Chris
+
+Bob cooked omelets for Jack, because he was hungry.
+Right:Jack  Your ans:Bob
+
+John bought a beer for Bill because he is cool.
+Right:Bill  Your ans:John
+
+Shawn hit Joe but he did not apologize.
+Right:Shawn  Your ans:Joe
+
+Sherry called Karla but she did not answer.
+Right:Karla  Your ans:Sherry
+
+Michael backed Bill because John asked him to.
+Right:Michael  Your ans:Bill
+
+Stephanie gave Brandy flowers because she was sick.
+Right:Brandy  Your ans:Stephanie
+
+The team decided to cancel their relations with AT&T Corporate because they ran out of money.
+Right:The team  Your ans:AT&T Corporate
+
+John chose Bill because he was the best choice.
+Right:Bill  Your ans:John
+
+John disliked Bill, but he did not know.
+Right:Bill  Your ans:John
+
+The grandmother threw her granddaughter to her death because she would not stop screaming.
+Right:her granddaughter  Your ans:grandmother
+
+The river destroyed the bridge because it was low.
+Right:the bridge  Your ans:river
+
+The sword was stuck in the tree because it was wedged in there really well.
+Right:The sword  Your ans:tree
+
+In last week's tennis match, Djokovic imitated Roddick's serve because he was the better player.
+Right:Roddick  Your ans:Djokovic
+
+In last week's tennis match, Djokovic imitated Roddick's serve because he was funny.
+Right:Djokovic  Your ans:Roddick
+
+Jack shouted at Bill because he crashed the car.
+Right:Bill  Your ans:Jack
+
+Allen laughed at Jimmy because he was making fun of him.
+Right:Allen  Your ans:Jimmy
+
+Todd told Bill that he needed some money.
+Right:Todd  Your ans:Bill
+
+The group grew tired of making these sentences because they are tedious.
+Right:these sentences  Your ans:group
+
+The glass hit the floor and it scratched.
+Right:the floor  Your ans:glass
+
+Sally kicked Mary and she apologized.
+Right:Sally  Your ans:Mary
+
+Mary lied to Sue and she slapped her.
+Right:Sue  Your ans:Mary
+
+David hit Bill and he cried.
+Right:Bill  Your ans:David
+
+The gardener watered the owner's rose because he was doing his job.
+Right:The gardener  Your ans:owner
+
+The man gave the beggar some money because he was too persistent.
+Right:the beggar  Your ans:man
+
+The government officials publicly apologized to the people because they were forced to.
+Right:The government officials  Your ans:people
+
+Tim asked Jerry to run to the store so that he could relax.
+Right:Tim  Your ans:Jerry
+
+The police captured the criminals because they were less prepared.
+Right:the criminals  Your ans:police
+
+The ball broke the window because it was fragile.
+Right:the window  Your ans:ball
+
+Thomas pursued Peter, but he escaped.
+Right:Peter  Your ans:Thomas
+
+The employer let John have the assignment even though he wanted it.
+Right:The employer  Your ans:John
+
+The glass told the toaster that it was fat.
+Right:the toaster  Your ans:glass
+
+Sally gave Kelly a doll because she loved dolls.
+Right:Kelly  Your ans:Sally
+
+Knights preferred dragons over horses because they could not fly.
+Right:horses  Your ans:dragons
+
+The space marines killed the aliens because they were ordered to.
+Right:The space marines  Your ans:aliens
+
+Lucas is younger than Claus because he was born first.
+Right:Claus  Your ans:Lucas
+
+The man asked Mark the question again because he was being evasive.
+Right:Mark  Your ans:man
+
+Emma did not pass the ball to Janie, although she was open.
+Right:Janie  Your ans:Emma
+
+The boy gave his friend a cookie because he was hungry.
+Right:his friend  Your ans:boy
+
+The chef made breakfast for the captain because he required food.
+Right:the captain  Your ans:chef
+
+Bill was able to steal the banana from Ken because he was quick.
+Right:Bill  Your ans:Ken
+
+Bill was able to steal the banana from Ken because he was slow.
+Right:Ken  Your ans:Bill
+
+Malachi's program would not run on the computer because it was full of bugs.
+Right:Malachi's program  Your ans:computer
+
+Management gave the workers a raise because they had no other choice.
+Right:Management  Your ans:workers
+
+The Roman legion attacked the Persians because they felt threatened.
+Right:The Roman legion  Your ans:Persians
+
+The brown fox jumped over the dog because it was quick.
+Right:The brown fox  Your ans:dog
+
+Mark tackled the quarterback, but he was penalized.
+Right:Mark  Your ans:quarterback
+
+Michael asked Jacob to dance because he was lonely.
+Right:Jacob  Your ans:Michael
+
+Tim bought Eric a gecko, but he did not like it.
+Right:Eric  Your ans:Tim
+
+Tim bought Eric a gecko, because he liked him.
+Right:Tim  Your ans:Eric
+
+Sarah went to Kelly's house because she was home.
+Right:Kelly  Your ans:Sarah
+
+James cheated off Henry's test, and the Teacher told him.
+Right:Henry  Your ans:James
+
+James cheated off Henry's test, and the Teacher failed him.
+Right:James  Your ans:Henry
+
+Jackie gave Beth a present because it was her birthday.
+Right:Beth  Your ans:Jackie
+
+Burt installed Joey's software, and he was appreciative.
+Right:Joey  Your ans:Burt
+
+The dog hunted the fox because it was red.
+Right:the fox  Your ans:dog
+
+The Secretary and the President met about him being appointed.
+Right:The Secretary  Your ans:President
+
+A monkey ate a lizard and it screamed in pain.
+Right:a lizard  Your ans:monkey
+
+Jim pooped on Jack and he laughed.
+Right:Jim  Your ans:Jack
+
+The rock melted in the lava because it was hot.
+Right:the lava  Your ans:rock
+
+A dog chewed a bone and it became wet.
+Right:a bone  Your ans:dog
+
+John hit Carl and he did not like it.
+Right:Carl  Your ans:John
+
+Katy cried for Susan since she was sad.
+Right:Katy  Your ans:Susan
+
+Tobias is upset with William because he would not pay.
+Right:Tobias  Your ans:William
+
+Jean is making fun of Kyle because he won.
+Right:Jean  Your ans:Kyle
+
+Jean is making fun of Kyle because he lost.
+Right:Kyle  Your ans:Jean
+
+Cheesecake is better than fruitcake because it is gross.
+Right:fruitcake  Your ans:Cheesecake
+
+The townspeople ate the unicorns because they were delicious.
+Right:the unicorns  Your ans:townspeople
+
+Gold is more popular than black because it does not sparkle.
+Right:black  Your ans:Gold
+
+Jill outran Kate because she was faster.
+Right:Jill  Your ans:Kate
+
+George talked to Bill because he was nervous.
+Right:George  Your ans:Bill
+
+George talked to Bill because he had experience.
+Right:Bill  Your ans:George
+
+Bush beat Gore because he was unpopular.
+Right:Gore  Your ans:Bush
+
+The knife cut through the fence because it was rusty.
+Right:the fence  Your ans:knife
+
+Iphones are selling more than androids because they are hard to use.
+Right:androids  Your ans:Iphones
+
+Hill joined Obama because Bill suggested him.
+Right:Hill  Your ans:Obama
+
+Rocky won the match with Richard because he worked hard.
+Right:Rocky  Your ans:Richard
+
+Rocky won the match with Richard because he had no energy.
+Right:Richard  Your ans:Rocky
+
+Steve loved Bush but he did not tell.
+Right:Steve  Your ans:Bush
+
+Right after work Angelina took Sandy to the park because she knew the place.
+Right:Angelina  Your ans:Sandy
+
+Claudia lost all her money to Valarie because she is stupid.
+Right:Claudia  Your ans:Valarie
+
+Janice bought Kenda a car because she needed one.
+Right:Kenda  Your ans:Janice
+
+The mouse ran from the cat all the way to the kitchen because it was scared.
+Right:The mouse  Your ans:cat
+
+John picked Bill because he was talented.
+Right:Bill  Your ans:John
+
+John bored Bill because he was easily bored.
+Right:Bill  Your ans:John
+
+John ridiculed Bill because he was a big help.
+Right:Bill  Your ans:John
+
+John tricked Bill because he was mischievous.
+Right:John  Your ans:Bill
+
+John tricked Bill because he was slow-witted.
+Right:Bill  Your ans:John
+
+John nicked Bill because he was gullible.
+Right:Bill  Your ans:John
+
+John gave a large sum of money to Bill because he had extra.
+Right:John  Your ans:Bill
+
+John gave a large sum of money to Bill because he needed a loan.
+Right:Bill  Your ans:John
+
+John kicked Bill because he was being mean.
+Right:Bill  Your ans:John
+
+John remembered Bill because he was memorable.
+Right:Bill  Your ans:John
+
+The wine busted the cask because it was too small.
+Right:the cask  Your ans:wine
+
+Tom gave James a coat because he was cold.
+Right:James  Your ans:Tom
+
+The veterans defeated the newcomers because they were more experienced.
+Right:The veterans  Your ans:newcomers
+
+The police arrested the rioters because they were causing trouble.
+Right:the rioters  Your ans:police
+
+The lumberjacks cut the trees so they could be paid.
+Right:The lumberjacks  Your ans:trees
+
+The listener did not complain about the singer because he was tone deaf.
+Right:The listener  Your ans:singer
+
+Lions love gazelles because they are delicious.
+Right:gazelles  Your ans:Lions
+
+The boy laughed at his friend because he made the joke.
+Right:his friend  Your ans:boy
+
+The boulder dropped into the river, but it continued to roll.
+Right:The boulder  Your ans:river
+
+Jerrica saw the guard as she snuck past.
+Right:Jerrica  Your ans:guard
+
+The police called headquarters for help and they refused.
+Right:headquarters  Your ans:police
+
+The advisor told the President that he was resigning.
+Right:The advisor  Your ans:President
+
+The mother encouraged her daughter to sing a difficult song so she would be challenged.
+Right:her daughter  Your ans:mother
+
+Stacy lied about partying to her mom, but she found out.
+Right:her mom  Your ans:Stacy
+
+The poor steal from the rich because they need more money.
+Right:The poor  Your ans:rich
+
+Dogs are friendlier than cats since they enjoy the company of people.
+Right:Dogs  Your ans:cats
+
+T-Mobile's data plan is better than AT&T's data plan since it does not cap data usage.
+Right:T-Mobile  Your ans:AT&T
+
+Nicole was angry at Sammie since she caught her in a lie.
+Right:Sammie  Your ans:Nicole
+
+The Axis forces lost the war to the Allied forces because they took advantage of their weakness.
+Right:the Allied forces  Your ans:Axis forces
+
+The police arrested the criminals since they break the law.
+Right:the criminals  Your ans:police
+
+Monster trucks would crush cars since they are so massive.
+Right:Monster trucks  Your ans:cars
+
+Peter Griffin often pokes fun at Chris, because he enjoys doing it.
+Right:Peter Griffin  Your ans:Chris
+
+HP sold a new LED monitor for a heavily discounted price to consumers, so they ended up buying mass amounts of monitors.
+Right:consumers  Your ans:HP
+
+The Dallas Cowboys lost their lead to the Redskins because they started to perform very well in the second half.
+Right:the Redskins  Your ans:Dallas Cowboys
+
+Lorenze took his son to the hospital since he was concerned for his health.
+Right:Lorenze  Your ans:his son
+
+John could not understand his waiter, because he spoke Spanish.
+Right:his waiter  Your ans:John
+
+Ken has Adam's bike, because he took it from him.
+Right:Ken  Your ans:Adam
+
+Mary asked Jim not to annoy the crazy person, as he might attack him.
+Right:the crazy person  Your ans:Jim
+
+The hammer hit the bullet, so it stopped.
+Right:The hammer  Your ans:bullet
+
+Kenny attacked Ben, and then he defended.
+Right:Kenny  Your ans:Ben
+
+Sam hates Martha Stewart, because she committed a crime.
+Right:Martha Stewart  Your ans:Sam
+
+Jim taught John rhetoric to become a lawyer, but he did not get paid.
+Right:Jim  Your ans:John
+
+The professor told John that he passed him.
+Right:The professor  Your ans:John
+
+People like dogs but they do not like cats.
+Right:People  Your ans:dogs
+
+People raise dogs because they are obedient.
+Right:dogs  Your ans:People
+
+Professors do a lot for students, but they are rarely respected.
+Right:Professors  Your ans:students
+

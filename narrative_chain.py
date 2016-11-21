@@ -1,8 +1,11 @@
 def load_chain():
     with open('data/chain.txt') as f:
         lines = f.readlines()
-    chains = [lines[i] for i in range(5, len(lines), 7)]
-    chains += [lines[i] for i in range(6, len(lines), 7)]
+    chains = []
+    for i in range(0,len(lines)):
+        if '[' in lines[i]:
+            chains.append(lines[i])
+
     for i in range(0, len(chains)):
         pos = chains[i].find(']')
         chains[i] = chains[i][:pos]

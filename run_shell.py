@@ -25,7 +25,9 @@ def stanfordnlp_shell(input_name):
     # print(args)
     # call(args)
 
-    args = ['java', '-cp', '/Users/yre/Documents/_Yre_Boomshakalaka/2017_Fall/COMP_5211/wsc_naive/stanford-corenlp-full-2015-12-09/*', '-Xmx2g', 'edu.stanford.nlp.pipeline.StanfordCoreNLP', '-annotators', 'tokenize,ssplit,pos,lemma,ner,parse,dcoref', '-outputFormat', 'json', '-file', '../data/'+input_name, '-outputDirectory', '../data']
+    args = ['java', '-cp', '/project/comp5211/stanford-corenlp-full-2015-12-09/*', '-Xmx2g',
+            'edu.stanford.nlp.pipeline.StanfordCoreNLP', '-annotators', 'tokenize,ssplit,pos,lemma,ner,parse,dcoref',
+            '-outputFormat', 'json', '-file', './data/' + input_name, '-outputDirectory', './data/']
     print(args)
     call(args)
     #

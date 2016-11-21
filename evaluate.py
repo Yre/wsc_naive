@@ -45,11 +45,14 @@ def evaluate(sent_list, answer_list, key_list):
             fw.write(sent_list[i]+'\n')
             fw.write('Right:' + key_list[i]+'  ')
             fw.write('Your ans:' + answer_list[i][j]+'\n\n')
+
+
+    acc = (right_answer + no_answer/2.0)*1.0/total_answer
     fw.close()
     fr.close()
     fn.close()
-    print 'Accuracy: ', right_answer, ' + (', no_answer, ') / ', total_answer
     print 'Accuracy: ', right_answer, ' + (', no_answer, ') / ', sent_number
+    print 'Final Accuracy: ', acc
 
 
 

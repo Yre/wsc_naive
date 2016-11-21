@@ -4,3 +4,798 @@ bus driver  The bus driver
 The bus driver yelled at a kid after she broke a window.
 kid  a kid
 
+The man stole the neighbor's bike because he needed one.
+man  The man
+
+The bird ate the pie and it died.
+bird  The bird
+
+The bird ate the pie and it was ruined.
+pie  the pie
+
+The bird perched on the limb and it sang.
+bird  The bird
+
+Mary cleaned Susan's room and she asked a favor.
+Mary  Mary
+
+Lions eat zebras because they are predators.
+Lions  Lions
+
+The teacher did not recommend William because he was not a good student.
+William  William
+
+The teacher did not recommend William because he had high standards.
+teacher  The teacher
+
+The doctor told Susan that she had cancer.
+Susan  Susan
+
+The professor grading the student's paper said that he was stupid.
+student  the student
+
+Aaron kissed Dan because he wanted him to.
+Dan  Dan
+
+The students fell asleep during the professor's lectures because they were bored.
+students  The students
+
+James went to Sully's arcade and he asked for tickets.
+James  James
+
+Bill was robbed by John, so the officer arrested him.
+John  John
+
+He put snow on the smiley face because it was wet.
+snow  snow
+
+The kitten played with the yarn because it was fun.
+yarn  the yarn
+
+The kitten played with the yarn because it was bored.
+kitten  The kitten
+
+I chopped down the tree with my axe because it was tall.
+tree  the tree
+
+Spiderman defeated Magnito because he is a good guy.
+Spiderman  Spiderman
+
+The citizens rebelled against the government because they were being repressed.
+citizens  The citizens
+
+The citizens rebelled against the government because they were being mean.
+government  the government
+
+Cats are smarter than dogs because they always land on their feet.
+Cats  Cats
+
+Cats are smarter than dogs because they bark for no reason.
+dogs  dogs
+
+Steve scratched Johnny because he was angry.
+Steve  Steve
+
+The youth outran the old man because he broke his hip.
+old man  the old man
+
+Video games are outselling movies because they are fun to play.
+Video games  Video games
+
+The zombies chased the survivors because they were tasty.
+survivors  the survivors
+
+Medvedev will cede the presidency to Putin because he is more popular.
+Putin  Putin
+
+The master rewarded the dog because he was a good companion.
+dog  the dog
+
+The cat broke the glass because it was fragile.
+glass  the glass
+
+The cat broke the glass because it was clumsy.
+cat  The cat
+
+Bill returned Jim twenty dollars because he borrowed money.
+Bill  Bill
+
+Bill returned Jim twenty dollars because he lent money.
+Jim  Jim
+
+The boy ran from the cop because he committed the crime.
+boy  The boy
+
+The cap fell off the bottle because it was pressurized.
+bottle  the bottle
+
+The cap fell off the bottle because it was untwisted.
+cap  The cap
+
+The boy tried to address his friend, but he could not speak.
+boy  The boy
+
+A biker sped past an officer and he turned on his siren.
+officer  an officer
+
+The car hop brought the man his tray, but he was not in the car.
+man  the man
+
+The magician pulled a rabbit out of his hat.
+magician  The magician
+
+The magician pulled a rabbit out of his cage.
+rabbit  a rabbit
+
+Kevin stared at Michael and he got angry.
+Michael  Michael
+
+The cabbage was in the freezer and it became full.
+freezer  the freezer
+
+England won the bid over Spain because they prepared better.
+England  England
+
+Firefox is used more than Internet Explorer because it is more stable.
+Firefox  Firefox
+
+Students hate exams because they are lazy.
+Students  Students
+
+Students hate exams because they are tedious.
+exams  exams
+
+Gary envied Bill because he was rich.
+Bill  Bill
+
+The company accepted the resolution because it was well-written.
+resolution  the resolution
+
+The company accepted the resolution because it was desperate.
+company  The company
+
+The teacher told the student that he needed to practice.
+student  the student
+
+Mr. Sanders gave James a promotion because he has done good work.
+James  James
+
+The squirrels buried the nuts so they would not get lost.
+nuts  the nuts
+
+The jocks did not like the nerds because they were bullies.
+jocks  The jocks
+
+The jocks did not like the nerds because they were losers.
+nerds  the nerds
+
+The spider ate the fly because he was hungry.
+spider  The spider
+
+The spider ate the fly because he looked tasty.
+fly  the fly
+
+The nurse gave the girl a lollypop so that she would stop crying.
+girl  the girl
+
+The cat looked at the big dog, and it was terrified.
+cat  The cat
+
+The Emancipation Proclamation made slavery illegal, but it was still practiced.
+slavery  slavery
+
+It annoyed Chris when Sebastian jangled his keys because he was in a bad mood.
+Chris  Chris
+
+Henry changed Jack's oil, because he gave him money.
+Jack  Jack
+
+Henry changed Jack's oil, because he needed money.
+Henry  Henry
+
+Shawn hit Joe but he did not scream.
+Joe  Joe
+
+Katie accused Jane but she felt badly about it.
+Katie  Katie
+
+Steven assassinated the president because he was paid to do it.
+Steven  Steven
+
+The wolves ate the cows because they were hungry.
+wolves  The wolves
+
+The wolves ate the cows because they were delicious.
+cows  the cows
+
+Johnson wanted to make friendship with David, because he is well connected.
+David  David
+
+Johnson wanted to make friendship with David, because he wanted help.
+Johnson  Johnson
+
+The company declared bonus for the employees because they made huge profits.
+company  The company
+
+The company declared bonus for the employees because they worked hard.
+employees  the employees
+
+The team decided to cancel their relations with AT&T Corporate because they are arrogant.
+AT&T Corporate  AT&T Corporate
+
+John chose Bill because he was choosing.
+John  John
+
+John thanked Bill because he was helpful.
+Bill  Bill
+
+John ridiculed Bill because he acted like a fool.
+Bill  Bill
+
+Godzilla will stomp all over Tokyo if it rises from the ocean.
+Godzilla  Godzilla
+
+The grandmother threw her granddaughter to her death because she felt jealous.
+grandmother  The grandmother
+
+Bob Marley shot the sheriff, but he survived.
+sheriff  the sheriff
+
+The mother punishes the daughter because she was disobedient.
+daughter  the daughter
+
+The river destroyed the bridge because it was high.
+river  The river
+
+The army crossed the river because it was shallow.
+river  the river
+
+The army crossed the river because it was retreating.
+army  The army
+
+Monkeys hate lions because they eat them.
+Monkeys  Monkeys
+
+Monkeys hate lions because they are scary.
+lions  lions
+
+The sword was stuck in the tree because it grew up around it.
+tree  the tree
+
+The infection spread throughout the building because it was airborne.
+infection  The infection
+
+The infection spread throughout the building because it was ventilated.
+building  the building
+
+Jack shouted at Bill because he was angry.
+Jack  Jack
+
+The golfers waved on the players because they were waiting.
+players  the players
+
+Allen laughed at Jimmy because he told a funny joke.
+Jimmy  Jimmy
+
+The painting was at the museum because it was having a display.
+museum  the museum
+
+The painting was at the museum because it was on display.
+painting  The painting
+
+The military prepared to go to battle with an Amish colony because they felt threatened.
+military  The military
+
+The group grew tired of making these sentences because they are lazy.
+group  The group
+
+The mysterious creature is drinking whiskey because it tastes good.
+whiskey  whiskey
+
+Jimbo ate the fish that Bobbert prepared because he was hungry.
+Jimbo  Jimbo
+
+The glass hit the floor and it broke.
+glass  The glass
+
+The cow ran into the fence and it broke.
+fence  the fence
+
+The cow ran into the fence and it got hurt.
+cow  The cow
+
+Sally kicked Mary and she was hurt.
+Mary  Mary
+
+Mary lied to Sue and she asked for forgiveness.
+Mary  Mary
+
+David hit Bill and he enjoyed it.
+David  David
+
+The man gave the beggar some money because he was very generous.
+man  The man
+
+The manager fired the intern because she was upset.
+manager  The manager
+
+The government officials publicly apologized to the people because they demanded an apology.
+people  the people
+
+James always gives orders to Owen because he is very obedient.
+Owen  Owen
+
+The professor highly recommends the student because he asks very good questions.
+student  the student
+
+The music player did not open the file because it was in the wrong format.
+file  the file
+
+The students protested against the new policies because they were angry.
+students  The students
+
+The food in the refrigerator went bad because it was not plugged in.
+refrigerator  the refrigerator
+
+The police captured the criminals because they were more prepared.
+police  The police
+
+The ball broke the window because it was hard.
+ball  The ball
+
+Thomas pursued Peter, but he fell behind.
+Thomas  Thomas
+
+The employer let John have the assignment even though he did not want it.
+John  John
+
+The computer rejected the password because it was incorrect.
+password  the password
+
+The computer rejected the password because it was malfunctioning.
+computer  The computer
+
+Knights preferred dragons over horses because they could fly.
+dragons  dragons
+
+Misty was replaced by May because she had to go back home.
+Misty  Misty
+
+Misty was replaced by May because she was the only one available.
+May  May
+
+John wanted to vote for Doe, but he could not make up his mind.
+John  John
+
+Sega lost to Nintendo because they were superior.
+Nintendo  Nintendo
+
+The space marines killed the aliens because they were a threat.
+aliens  the aliens
+
+Lucas is younger than Claus because he was born last.
+Lucas  Lucas
+
+Bill punched Larry and he was hurt.
+Larry  Larry
+
+Bill punched Larry because he was angry.
+Bill  Bill
+
+The computer could not run the program because it did not have enough memory.
+computer  The computer
+
+The man asked Mark the question again because he was curious.
+man  The man
+
+Joe tried to get Tom to wake up, but he couldn't.
+Joe  Joe
+
+Joe tried to get Tom to wake up, but he wouldn't.
+Tom  Tom
+
+Emma did not pass the ball to Janie, although she should have.
+Emma  Emma
+
+The boy gave his friend a cookie because he had an extra.
+boy  The boy
+
+The government placed a tax on the product so it got more expensive.
+product  the product
+
+The chef made breakfast for the captain because he was required to.
+chef  The chef
+
+Allen chased the leprechaun because he had a pot of gold.
+leprechaun  the leprechaun
+
+Malachi's program would not run on the computer because it had a faulty hard drive.
+computer  the computer
+
+Management gave the workers a raise because they had threatened to strike.
+workers  the workers
+
+The Roman legion attacked the Persians because they had invaded.
+Persians  the Persians
+
+The brown fox jumped over the dog because it was lazy.
+dog  the dog
+
+Alice helped Gwen move because she was nice.
+Alice  Alice
+
+The striker scored on the goalie because he outran the defenders.
+striker  The striker
+
+The striker scored on the goalie because he was caught off guard.
+goalie  the goalie
+
+Michael asked Jacob to dance because he felt sorry for him.
+Michael  Michael
+
+Emily asked Anna to stir the pot, but she did not do it.
+Anna  Anna
+
+Dan modified Harry's car because he asked politely.
+Harry  Harry
+
+The dog hunted the fox because it was hungry.
+dog  The dog
+
+The Secretary and the President met about him being elected.
+President  the President
+
+A monkey ate a lizard and it licked its lips.
+monkey  A monkey
+
+Jim pooped on Jack and he vomited.
+Jack  Jack
+
+The sheep chased the pig because it was fat.
+pig  the pig
+
+The rock melted in the lava because it was pushed.
+rock  The rock
+
+Jill loves Jamie and she does not feel the same way.
+Jamie  Jamie
+
+A dog chewed a bone and it barked.
+dog  A dog
+
+The lion bit the gazelle because it had sharp teeth.
+lion  The lion
+
+John hit Carl and he hit back.
+John  John
+
+Katy cried for Susan since she died.
+Susan  Susan
+
+Taco needs hot sauce because it improves the flavor.
+hot sauce  hot sauce
+
+Tobias is upset with William because he was mean.
+William  William
+
+Cheesecake is better than fruitcake because it tastes better.
+Cheesecake  Cheesecake
+
+The townspeople ate the unicorns because they were hungry.
+townspeople  The townspeople
+
+Computers outsell laptops because they are more powerful.
+Computers  Computers
+
+Computers outsell laptops because they are not worth the money.
+laptops  laptops
+
+Gold is more popular than black because it is shiny.
+Gold  Gold
+
+Jill outran Kate because she was slower.
+Kate  Kate
+
+Mike tried to follow Tom but he could not keep up.
+Mike  Mike
+
+Coins are better than dollars because they weigh more.
+Coins  Coins
+
+Tom asked his son to drive so that he could sleep.
+Tom  Tom
+
+Bush beat Gore because he rigged the election.
+Bush  Bush
+
+The knife cut through the fence because it was sharp.
+knife  The knife
+
+Iphones are selling more than androids because they are trendy.
+Iphones  Iphones
+
+The University declared holiday to students because they requested them.
+students  students
+
+Hill joined Obama because Bill trusted him.
+Obama  Obama
+
+Steve loved Bush but he did not accept.
+Bush  Bush
+
+Claudia lost all her money to Valarie because she is really smart.
+Valarie  Valarie
+
+Dad yelled at Sam because he did not go to school.
+Sam  Sam
+
+Dad yelled at Sam because he was mad.
+Dad  Dad
+
+The mouse ran from the cat all the way to the kitchen because it chased him.
+cat  the cat
+
+John bored Bill because he was boring.
+John  John
+
+John nicked Bill because he needed money.
+John  John
+
+John kicked Bill because he was angry.
+John  John
+
+The authorities detained the hikers because they were trespassing.
+hikers  the hikers
+
+The authorities detained the hikers because they were prejudiced.
+authorities  The authorities
+
+The employees crushed the boxes because they were working.
+employees  The employees
+
+The employees crushed the boxes because they were empty.
+boxes  the boxes
+
+Tom gave James a coat because he was generous.
+Tom  Tom
+
+The veterans defeated the newcomers because they were less experienced.
+newcomers  the newcomers
+
+The sailors fell off the boats because they were capsizing.
+boats  the boats
+
+The sailors fell off the boats because they were drunk.
+sailors  The sailors
+
+The children played games because they were bored.
+children  The children
+
+The children played games because they were entertaining.
+games  games
+
+The students read the books because they were learning.
+students  The students
+
+The students read the books because they were interesting.
+books  the books
+
+The lumberjacks cut the trees so they could be sold.
+trees  the trees
+
+Tom likes John because he has a cool name.
+John  John
+
+The listener did not complain about the singer because he was autotuned.
+singer  the singer
+
+Lions love gazelles because they eat them.
+Lions  Lions
+
+Steve Ballmer took over as CEO of Microsoft after Bill Gates because he retired.
+Bill Gates  Bill Gates
+
+Windows is worse than Linux because it has a lot of viruses.
+Windows  Windows
+
+Windows is worse than Linux because it is open source.
+Linux  Linux
+
+The boy laughed at his friend because he heard the joke.
+boy  The boy
+
+The cops maced the protesters because they blindly follow orders.
+cops  The cops
+
+The boulder dropped into the river, but it continued to flow.
+river  the river
+
+The gun owner fired at the burglar because he stole items.
+burglar  the burglar
+
+Jerrica saw the guard as she marched past.
+guard  the guard
+
+My parents gave the neighbors tickets to Six Flags since they needed them.
+neighbors  the neighbors
+
+The advisor told the President that he should declare war.
+President  the President
+
+The elephant trampled a fish and it died.
+fish  a fish
+
+The elephant trampled a fish and it continued on its way.
+elephant  The elephant
+
+The children egged the neighbors because they had no dignity.
+children  The children
+
+The model frowned at her manager because she was sad.
+model  The model
+
+The pilots saved the passengers because they begged them to.
+passengers  the passengers
+
+The AirForce is more appealing than the Army, but they require higher qualifications.
+AirForce  The AirForce
+
+The AirForce is more appealing than the Army, but they are just as important.
+Army  the Army
+
+Dogs are friendlier than cats since they would rather be alone.
+cats  cats
+
+KFC sells better than Popeyes since they have better chicken.
+KFC  KFC
+
+KFC sells better than Popeyes since they use worse ingredients in their chicken.
+Popeyes  Popeyes
+
+T-Mobile's data plan is better than AT&T's data plan since it throttles user for excessive data usage.
+AT&T  AT&T
+
+Nicole was angry at Sammie since she lied to her.
+Nicole  Nicole
+
+Gladiators are viewed better than Slaves because they fight to the death in the arena.
+Gladiators  Gladiators
+
+The DEA raided the Mexican Cartel's warehouse because they suspected a drug business was occurring.
+DEA  DEA
+
+Rob was granted a gun license while Jon was not, because he had a criminal past.
+Jon  Jon
+
+Sharks are constantly eating fishes because they are higher on the food chain.
+Sharks  Sharks
+
+The monsters at the haunted house chased the children because they are trying to scare them.
+monsters  The monsters
+
+The police arrested the criminals since they enforce the law.
+police  The police
+
+The parents grounded the children since they demanded obedience.
+parents  The parents
+
+The parents grounded the children since they were disobedient.
+children  the children
+
+The police arrested suspected members of Anonymous because they are cracking down on hackers.
+police  The police
+
+Raccoons constantly play dead when people come near because they frighten them.
+people  people
+
+Buy More Book Store sends brand new books to customers, but they sometimes end up sending used books instead.
+Buy More Book Store  Buy More Book Store
+
+Merchant Smith purchased the trophy from Knight Louis, but he did not pay very well for it.
+Merchant Smith  Merchant Smith
+
+Microsoft Azure provides cloud servers for consumers because they are providing the infrastructure for a future in cloud computing.
+Microsoft Azure  Microsoft Azure
+
+The security patrol searched the land for survivors because they might still be alive.
+survivors  survivors
+
+The civilians had to flee the encampment from the thugs because they feared for their lives.
+civilians  The civilians
+
+HP sold a new LED monitor for a heavily discounted price to consumers, so they could create a stronger foot hold in the computer sector.
+HP  HP
+
+Cartman wanted Kenny to go to the same school as him, but he refused.
+Kenny  Kenny
+
+The Dallas Cowboys lost their lead to the Redskins because they started to perform very poorly in the second half.
+Dallas Cowboys  The Dallas Cowboys
+
+Peacocks are considered very majestic birds by bird watchers because they are considered quite beautiful due to their vivid colors.
+Peacocks  Peacocks
+
+The waitress noticed that Rebecca's glass was empty, so she filled it.
+waitress  The waitress
+
+John could not understand his waiter, because he was deaf.
+John  John
+
+We gave the toys to the toddlers, because they wanted to play.
+toddlers  the toddlers
+
+We gave the toys to the toddlers, because they were unopened.
+toys  the toys
+
+Darth Vader said to Luke Skywalker, "I am your father", because he was his father.
+Darth Vader  Darth Vader
+
+Darth Vader said to Luke Skywalker, "I am your father", because he was his son.
+Luke Skywalker  Luke Skywalker
+
+The policeman finally caught the criminal, because he turned himself in.
+criminal  the criminal
+
+Chris was running after John, because he stole his watch.
+John  John
+
+The assembly line workers were told they had been fired by the company, because they could cut costs.
+company  the company
+
+Ken has Adam's bike, because he gave it to him.
+Adam  Adam
+
+Student A beat student B, because he studied.
+Student A  Student A
+
+Student A beat student B, because he slacked off.
+student B  student B
+
+Mary asked Jim not to annoy the crazy person, as he might be attacked.
+Jim  Jim
+
+Policemen advocated the use of wire taps to track terrorists, because they are hard to track.
+terrorists  terrorists
+
+The hammer hit the bullet, so it shot.
+bullet  the bullet
+
+MIT accepted the students, because they had good grades.
+students  the students
+
+Obama beat John McCain, because he was the better candidate.
+Obama  Obama
+
+Jack killed John, but he was not the only victim.
+John  John
+
+Jim taught John rhetoric to become a lawyer, but he did not pay him.
+John  John
+
+The professor told John that he passed the exam.
+John  John
+
+People like dogs because they look like them.
+dogs  dogs
+
+People raise dogs because they are afraid of thieves.
+People  People
+
+Professors give a lot of advice to students, because they are caring.
+Professors  Professors
+
+Professors give a lot of advice to students, but they rarely care.
+students  students
+
+Americans preferred Obama to McCain because he was younger.
+Obama  Obama
+
+Americans preferred Obama to McCain because he was too old.
+McCain  McCain
+
+Americans preferred Obama to McCain because he chose Sarah Palin as his running-mate.
+McCain  McCain
+
+There is more NLP work on English than on Bengali because it has rich linguistic resources.
+English  English
+
