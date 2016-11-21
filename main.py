@@ -46,6 +46,8 @@ if __name__ == '__main__':
 
         broken_sent_list.append(sent1)
         broken_sent_list.append(sent2)
+        print sent1
+        print sent2
 
         sent1_string = ""
         sent2_string = ""
@@ -101,11 +103,11 @@ if __name__ == '__main__':
             ##
             # C1_BJ = 1000 C2_BJ = 0
 
-            if C0_BJ > C1_BJ * (1 + 0.2):
+            if C0_BJ > C1_BJ * (1 + 0.1):
                 feature[i][0] = 0
                 print 'google ans: ', origin_candidate_list[i][0], ' vs ', key_list[i]
                 continue
-            elif C1_BJ > C0_BJ * (1 + 0.2):
+            elif C1_BJ > C0_BJ * (1 + 0.1):
                 feature[i][0] = 1
                 print 'google ans: ', origin_candidate_list[i][1], ' vs ', key_list[i]
                 continue

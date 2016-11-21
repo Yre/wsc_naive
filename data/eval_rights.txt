@@ -1,0 +1,6 @@
+The bus driver yelled at a kid after she drove her vehicle.
+bus driver  The bus driver
+
+The bus driver yelled at a kid after she broke a window.
+kid  a kid
+

@@ -1,134 +1,29 @@
-Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.
-They
-Pam's parents,Pam and Paul
-Pam's parents
-
-Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it.
-They
-Pam's parents,Pam and Paul
-Pam and Paul
-
-Dr. Adams informed Kate that she had retired and presented several options for future treatment.
-she
-Dr. Adams,Kate
-Dr. Adams
-
-Dr. Adams informed Kate that she had cancer and presented several options for future treatment.
-she
-Dr. Adams,Kate
-Kate
-
-Dan had to stop Bill from toying with the injured bird. He is very compassionate.
-He
-Dan,Bill
-Dan
-
-Dan had to stop Bill from toying with the injured bird. He is very cruel.
-He
-Dan,Bill
-Bill
-
-George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.
-he
-George,Eric
-George
-
-George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.
-he
-George,Eric
-Eric
-
-George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.
-he
-George,Eric
-George
-
-Jane gave Joan candy because she wasn't hungry.
-she
-Jane,Joan
-Jane
-
-Jane gave Joan candy because she was hungry.
-she
-Jane,Joan
-Joan
-
-I tried to paint a picture of an orchard, with lemons in the lemon trees,but they came out looking more like light bulbs.
-they
-lemons,lemon trees
-lemons
-
-I tried to paint a picture of an orchard, with lemons in the lemon trees,but they came out looking more like telephone poles.
-they
-lemons,lemon trees
-lemon trees
-
-James asked Robert for a favor but he was refused.
-he
-James,Robert
-James
-
-James asked Robert for a favor but he refused.
-he
-James,Robert
-Robert
-
-Kirilov ceded the presidency to Shatov because he was less popular.
-he
-Kirilov,Shatov
-Kirilov
-
-Kirilov ceded the presidency to Shatov because he was more popular.
-he
-Kirilov,Shatov
-Shatov
-
-Emma did not pass the ball to Janie although she saw that she was open.
-she
-Emma,Janie
-Emma
-
-Emma did not pass the ball to Janie although she was open.
-she
-Emma,Janie
-Janie
-
-I put the butterfly wing on the table and it broke.
+The bee landed on the flower because it had pollen.
 it
-The butterfly wing,The table
-The butterfly wing
+The bee,the flower
+the flower
 
-I put the heavy book on the table and it broke.
+The bee landed on the flower because it wanted pollen.
 it
-The heavy book,The table
-The table
+The bee,the flower
+The bee
 
-Madonna fired her trainer because she couldn't stand her boyfriend.
+When Debbie splashed Tina, she got in trouble.
 she
-Madonna,The trainer
-Madonna
+Debbie,Tina
+Debbie
 
-Madonna fired her trainer because she slept with her boyfriend.
+When Debbie splashed Tina, she got wet.
 she
-Madonna,The trainer
-The trainer
+Debbie,Tina
+Tina
 
-Madonna fired her trainer because she slept with her boyfriend.
-her
-Madonna,The trainer
-Madonna
-
-Madonna fired her trainer because she couldn't stand her boyfriend.
-her
-Madonna,The trainer
-The trainer
-
-Carol believed that Rebecca suspected that she had stolen the watch.
+The bus driver yelled at a kid after she drove her vehicle.
 she
-Carol,Rebecca
-Carol
+The bus driver,a kid
+The bus driver
 
-Carol believed that Rebecca regretted that she had stolen the watch.
+The bus driver yelled at a kid after she broke a window.
 she
-Carol,Rebecca
-Rebecca
+The bus driver,a kid
+a kid
