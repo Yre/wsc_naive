@@ -13,4 +13,6 @@ data/broken_sent.txt
 data/broken_sent.txt.json
 data/eval_rights.txt
 data/eval_wrongs.txt
+data/eval_no_decision.txt
+data/
 data/chain.txt
