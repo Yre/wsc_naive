@@ -1,21 +1,33 @@
-
-def check(pron_role, verb1, verb2):
+def load_chain():
     with open('data/chain.txt') as f:
         lines = f.readlines()
-    chains = [lines[i] for i in range(5, len(lines), 6)]
+    chains = [lines[i] for i in range(5, len(lines), 7)]
+    chains += [lines[i] for i in range(6, len(lines), 7)]
+    for i in range(0, len(chains)):
+        pos = chains[i].find(']')
+        chains[i] = chains[i][:pos]
+    return chains
 
+
+def check(chains, pron_role, verb1, verb2):
     cnt_s = 0
     cnt_o = 0
+
+    if pron_role == 'o':
+        verb2 = verb2 + '-o'
+    else:
+        verb2 = verb2 + '-s'
+    print 'check chain: [', verb1, '] [', verb2, ']'
     for line in chains:
         if verb1 in line and verb2 in line:
-            pos1 = line.find(verb1)
-            pos2 = line.find(verb2)
-            if line[pos2+2] != pron_role:
-                continue
-            if line[pos1+2] == 'o':
+            # print line
+            pos11 = line.find(verb1)
+            pos11 += len(verb1)
+            if line[pos11+1] == 'o':
                 cnt_o += 1
             else:
                 cnt_s += 1
+    print cnt_s, cnt_o
     if cnt_s + cnt_o == 0:
         return "NO_DECISION"
     else:

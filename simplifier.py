@@ -48,10 +48,13 @@ def break_by_conn(candidates, tokens):
 
 
 # list of dict search:
-def query_type(word, dict_key, dict_value):
+def query_type(word, dict_key, dict_value, dict_key_2, dict_value_2):
     for i in range(0, len(word)-1):
         if word[i][dict_key] == dict_value:
-            return True, i
+            if dict_key_2 == -1:
+                return True, i
+            if word[i][dict_key_2] == dict_value_2:
+                return True, i
     return False, -1
 
 

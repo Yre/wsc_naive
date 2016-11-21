@@ -10,27 +10,30 @@ def evaluate(sent_list, answer_list, key_list):
     sent_number = len(answer_list)
     right_answer = 0
     no_answer = 0
+    total_answer = 0
     fw = open('data/eval_wrongs.txt', 'w+')
     fr = open('data/eval_rights.txt', 'w+')
     fn = open('data/eval_no_decision.txt', 'w+')
     # f = open('data/result.txt','w+')
     for i in range(0, sent_number):
-        # if answer_list[i][0] == "NO_DECISION":
-        #     continue
-        # print "\nSentence # ",i
+        if answer_list[i][0] == "NO_DECISION":
+            continue
+        print "\nSentence # ",i
         simp_key = simplifier.simplify_word(key_list[i])
-        # print sent_list[i]
-        # print "answer: ", key_list[i]
-        # print "Chain: ", answer_list[i][0]
-        # print "Search: ", answer_list[i][1]
+        print sent_list[i]
+        print "answer: ", key_list[i]
+        print "Chain: ", answer_list[i][0]
+        print "Search: ", answer_list[i][1]
 
         ## answer list 2@!
         # for j in range(0, 2):
-        if answer_list[i][1] == 'NO_DECISION':
+        j = 0
+        total_answer += 1
+        if answer_list[i][j] == 'NO_DECISION':
             no_answer += 1
             fn.write(sent_list[i] + '\n')
             fn.write(key_list[i] + '\n\n')
-        elif simp_key == answer_list[i][1]:
+        elif simp_key == answer_list[i][j]:
             right_answer += 1
             fr.write(sent_list[i] + '\n')
             fr.write(simp_key+'  ')
@@ -39,10 +42,11 @@ def evaluate(sent_list, answer_list, key_list):
             wrong_list.append(i)
             fw.write(sent_list[i]+'\n')
             fw.write('Right:' + key_list[i]+'  ')
-            fw.write('Your ans:' + simp_key+'\n\n')
+            fw.write('Your ans:' + answer_list[i][j]+'\n\n')
     fw.close()
     fr.close()
     fn.close()
+    print 'Accuracy: ', right_answer, ' + (', no_answer, ') / ', total_answer
     print 'Accuracy: ', right_answer, ' + (', no_answer, ') / ', sent_number
 
 
